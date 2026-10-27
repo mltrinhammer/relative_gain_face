@@ -1,0 +1,848 @@
+TY  - JOUR
+TI  - Towards Automatic Depression Detection: A BiLSTM/1D CNN-Based Model
+AU  - Lin, Lin; Chen, Xuri; Shen, Ying; Zhang, Lin
+T2  - Applied Sciences
+DA  - 2020///
+PY  - 2020
+DO  - 10.3390/app10238701
+VL  - 10
+IS  - 23
+SP  - 8701
+EP  - NA
+ER  - 
+
+TY  - JOUR
+TI  - Harnessing multimodal approaches for depression detection using large language models and facial expressions.
+AU  - Sadeghi, Misha; Richer, Robert; Egger, Bernhard; Schindler-Gmelch, Lena; Rupp, Lydia Helene; Rahimi, Farnaz; Berking, Matthias; Eskofier, Bjoern M
+T2  - Npj mental health research
+DA  - 2024///
+PY  - 2024
+DO  - 10.1038/s44184-024-00112-8
+VL  - 3
+IS  - 1
+SP  - 66
+EP  - 66
+ER  - 
+
+TY  - JOUR
+TI  - Improving depression prediction using a novel feature selection algorithm coupled with context-aware analysis.
+AU  - Dai, Zhijun; Zhou, Heng; Ba, Qingfang; Zhou, Yang; Wang, Lifeng; Li, Guochen
+T2  - Journal of affective disorders
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/j.jad.2021.09.001
+VL  - 295
+IS  - NA
+SP  - 1040
+EP  - 1048
+ER  - 
+
+TY  - JOUR
+TI  - ACCV (2) - Cost-Sensitive Two-Stage Depression Prediction Using Dynamic Visual Clues
+AU  - Ma, Xingchen; Huang, Di; Wang, Yunhong; Wang, Yiding
+T2  - Lecture Notes in Computer Science
+DA  - 2017///
+PY  - 2017
+DO  - 10.1007/978-3-319-54184-6_21
+VL  - NA
+IS  - NA
+SP  - 338
+EP  - 351
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic Multimodal Measurement of Depression Severity Using Deep Autoencoding
+AU  - Dibeklioglu, Hamdi; Hammal, Zakia; Cohn, Jeffrey F.
+T2  - IEEE journal of biomedical and health informatics
+DA  - 2017///
+PY  - 2017
+DO  - 10.1109/jbhi.2017.2676878
+VL  - 22
+IS  - 2
+SP  - 525
+EP  - 536
+ER  - 
+
+TY  - JOUR
+TI  - AVEC@ACM Multimedia - Depression Severity Prediction Based on Biomarkers of Psychomotor Retardation
+AU  - Syed, Zafi Sherhan; Sidorov, Kirill; Marshall, David
+T2  - Proceedings of the 7th Annual Workshop on Audio/Visual Emotion Challenge
+DA  - 2017///
+PY  - 2017
+DO  - 10.1145/3133944.3133947
+VL  - NA
+IS  - NA
+SP  - 37
+EP  - 43
+ER  - 
+
+TY  - JOUR
+TI  - Multitask Representation Learning for Multimodal Estimation of Depression Level
+AU  - Qureshi, Syed Arbaaz; Saha, Sriparna; Hasanuzzaman, Mohammed; Dias, Gaël; Cambria, Erik
+T2  - IEEE Intelligent Systems
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/mis.2019.2925204
+VL  - 34
+IS  - 5
+SP  - 45
+EP  - 52
+ER  - 
+
+TY  - JOUR
+TI  - AVEC@ACM Multimedia - AVEC 2017: Real-life Depression, and Affect Recognition Workshop and Challenge
+AU  - Ringeval, Fabien; Schuller, Björn; Valstar, Michel; Gratch, Jonathan; Cowie, Roddy; Scherer, Stefan; Mozgai, Sharon; Cummins, Nicholas; Schmitt, Maximilian; Pantic, Maja
+T2  - Proceedings of the 7th Annual Workshop on Audio/Visual Emotion Challenge
+DA  - 2017///
+PY  - 2017
+DO  - 10.1145/3133944.3133953
+SP  - 3
+EP  - 9
+ER  - 
+
+TY  - JOUR
+TI  - HiQuE: Hierarchical Question Embedding Network for Multimodal Depression Detection
+AU  - Jung, Juho; Kang, Chaewon; Yoon, Jeewoo; Kim, Seungbae; Han, Jinyoung
+T2  - Proceedings of the 33rd ACM International Conference on Information and Knowledge Management
+DA  - 2024///
+PY  - 2024
+DO  - 10.1145/3627673.3679797
+SP  - 1049
+EP  - 1059
+ER  - 
+
+TY  - JOUR
+TI  - SIMMA: Multimodal Automatic Depression Detection via Spatiotemporal Ensemble and Cross-Modal Alignment
+AU  - Wang, Yaowei; Lin, Zulong; Teng, Yan; Cheng, Yuqi; Jiang, Hongyan; Yang, Yun
+T2  - IEEE Transactions on Computational Social Systems
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/tcss.2025.3542986
+VL  - 12
+IS  - 5
+SP  - 3548
+EP  - 3564
+ER  - 
+
+TY  - JOUR
+TI  - AVEC@ACM Multimedia - Topic Modeling Based Multi-modal Depression Detection
+AU  - Gong, Yuan; Poellabauer, Christian
+T2  - Proceedings of the 7th Annual Workshop on Audio/Visual Emotion Challenge
+DA  - 2017///
+PY  - 2017
+DO  - 10.1145/3133944.3133945
+VL  - NA
+IS  - NA
+SP  - 69
+EP  - 76
+ER  - 
+
+TY  - JOUR
+TI  - AVEC@ACM Multimedia - Hybrid Depression Classification and Estimation from Audio Video and Text Information
+AU  - Yang, Le; Sahli, Hichem; Xia, Xiaohan; Pei, Ercheng; Oveneke, Meshia Cédric; Jiang, Dongmei
+T2  - Proceedings of the 7th Annual Workshop on Audio/Visual Emotion Challenge
+DA  - 2017///
+PY  - 2017
+DO  - 10.1145/3133944.3133950
+VL  - NA
+IS  - NA
+SP  - 45
+EP  - 51
+ER  - 
+
+TY  - JOUR
+TI  - Multi-modal Depression Estimation Based on Sub-attentional Fusion
+AU  - Wei, Ping-Cheng; Peng, Kunyu; Roitberg, Alina; Yang, Kailun; Zhang, Jiaming; Stiefelhagen, Rainer
+T2  - Lecture Notes in Computer Science
+DA  - 2023///
+PY  - 2023
+DO  - 10.1007/978-3-031-25075-0_42
+VL  - NA
+IS  - NA
+SP  - 623
+EP  - 639
+ER  - 
+
+TY  - JOUR
+TI  - Computer-Aided Recognition Based on Decision-Level Multimodal Fusion for Depression.
+AU  - Zhang, Bingtao; Cai, Hanshu; Song, Yubo; Tao, Lei; Li, Yanlin
+T2  - IEEE journal of biomedical and health informatics
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/jbhi.2022.3165640
+VL  - 26
+IS  - 7
+SP  - 3466
+EP  - 3477
+AN  - rayyan-522117053
+ER  - 
+
+TY  - JOUR
+TI  - CIKM - AudiBERT: A Deep Transfer Learning Multimodal Classification Framework for Depression Screening
+AU  - Toto, Ermal; Tlachac, ML; Rundensteiner, Elke A.
+T2  - Proceedings of the 30th ACM International Conference on Information & Knowledge Management
+DA  - 2021///
+PY  - 2021
+DO  - 10.1145/3459637.3481895
+SP  - 4145
+EP  - 4154
+AN  - rayyan-522117079
+ER  - 
+
+TY  - JOUR
+TI  - A Hybrid Model for Depression Detection With Transformer and Bi-directional Long Short-Term Memory
+AU  - Zhang, Yazhou; He, Yu; Rong, Lu; Ding, Yijie
+T2  - 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/bibm55620.2022.9995184
+SP  - 2727
+EP  - 2734
+AN  - rayyan-522117085
+ER  - 
+
+TY  - JOUR
+TI  - ICASSP - Context-aware Deep Learning for Multi-modal Depression Detection
+AU  - Lam, Genevieve; Dongyan, Huang; Lin, Weisi
+T2  - ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/icassp.2019.8683027
+SP  - 3946
+EP  - 3950
+AN  - rayyan-522117097
+ER  - 
+
+TY  - JOUR
+TI  - AVEC@MM - Multi-level Attention Network using Text, Audio and Video for Depression Prediction
+AU  - Ray, Anupama; Kumar, Siddharth; Reddy, R.S.; Mukherjee, Prerana; Garg, Ritu
+T2  - Proceedings of the 9th International on Audio/Visual Emotion Challenge and Workshop
+DA  - 2019///
+PY  - 2019
+DO  - 10.1145/3347320.3357697
+SP  - 81
+EP  - 88
+AN  - rayyan-522117105
+ER  - 
+
+TY  - JOUR
+TI  - AVEC@ACM Multimedia - Multimodal and Multiresolution Depression Detection from Speech and Facial Landmark Features
+AU  - Nasir, NA; Jati, Arindam; Shivakumar, Prashanth Gurunath; Chakravarthula, Sandeep Nallan; Georgio...
+T2  - Proceedings of the 6th International Workshop on Audio/Visual Emotion Challenge
+DA  - 2016///
+PY  - 2016
+DO  - 10.1145/2988257.2988261
+SP  - 43
+EP  - 50
+AN  - rayyan-522117108
+ER  - 
+
+TY  - JOUR
+TI  - Transformer-based multimodal feature enhancement networks for multimodal depression detection integrating video, audio and remote photoplethysmograph signals
+AU  - Fan, Huiting; Zhang, Xingnan; Xu, Yingying; Fang, Jiangxiong; Zhang, Shiqing; Zhao, Xiaoming; Yu,...
+T2  - Information Fusion
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.inffus.2023.102161
+VL  - 104
+SP  - 102161
+EP  - 102161
+AN  - rayyan-522117133
+ER  - 
+
+TY  - JOUR
+TI  - MFMamba: A Multimodal Fusion State Space Model for Depression Recognition
+AU  - Liu, Jingyi; Shang, Yuanyuan; Yang, Mengyuan; Shao, Zhuhong; Lu, Jiaxi; Liu, Tie
+T2  - ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/icassp49660.2025.10888951
+SP  - 1
+EP  - 5
+AN  - rayyan-522117249
+ER  - 
+
+TY  - JOUR
+TI  - FPT-Former: A Flexible Parallel Transformer of Recognizing Depression by Using Audiovisual Expert-Knowledge-Based Multimodal Measures
+AU  - Li, Yifu; Yang, Xueping; Zhao, Meng; Wang, Zihao; Yao, Yudong; Qian, Wei; Qi, Shouliang
+T2  - International Journal of Intelligent Systems
+DA  - 2024///
+PY  - 2024
+DO  - 10.1155/2024/1564574
+VL  - 2024
+SP  - 1
+EP  - 13
+AN  - rayyan-522117315
+ER  - 
+
+TY  - JOUR
+TI  - Textual-dominated Multimodal Depression Detection
+AU  - Huang, Kuan; Lu, Heli; Li, Jing
+T2  - 2024 30th International Conference on Mechatronics and Machine Vision in Practice (M2VIP)
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/m2vip62491.2024.10746029
+SP  - 1
+EP  - 6
+AN  - rayyan-522117321
+ER  - 
+
+TY  - JOUR
+TI  - SBT-Net: a tri-cue guided multimodal fusion framework for depression recognition.
+AU  - Huo, Yujie; Chan, Weng Howe; Amerhaider Nuar, Ahmad Najmi Bin; Gao, Hongyu
+T2  - BioData mining
+DA  - 2025///
+PY  - 2025
+DO  - 10.1186/s13040-025-00498-x
+VL  - 18
+IS  - 1
+SP  - 86
+EP  - 86
+AN  - rayyan-522117322
+ER  - 
+
+TY  - JOUR
+TI  - Multi-Modal Depression Detection in Interview via Exploring Emotional Distribution Information
+AU  - Zhou, Zhiyuan; Guo, Yanrong; Hao, Shijie; Hong, Richang
+T2  - IEEE Transactions on Multimedia
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/tmm.2025.3590939
+VL  - 27
+SP  - 6872
+EP  - 6883
+AN  - rayyan-522117332
+ER  - 
+
+TY  - JOUR
+TI  - Distinguishing apathy and depression in older adults with mild cognitive impairment using text, audio, and video based on multiclass classification and shapely additive explanations.
+AU  - Zhou, Ying; Yao, Xiuyu; Han, Wei; Wang, Yidan; Li, Zheng; Li, Yingxin
+T2  - International journal of geriatric psychiatry
+DA  - 2022///
+PY  - 2022
+DO  - 10.1002/gps.5827
+VL  - 37
+IS  - 11
+SP  - -
+AN  - rayyan-522117352
+ER  - 
+
+TY  - JOUR
+TI  - An Enhanced Cross‐Attention Based Multimodal Model for Depression Detection
+AU  - Kou, Yifan; Ge, Fangzhen; Chen, Debao; Shen, Longfeng; Liu, Huaiyu
+T2  - Computational Intelligence
+DA  - 2025///
+PY  - 2025
+DO  - 10.1111/coin.70019
+VL  - 41
+IS  - 1
+SP  - -
+AN  - rayyan-522117357
+ER  - 
+
+TY  - JOUR
+TI  - Depression Scale Dictionary Decomposition Framework for Multimodal Automatic Depression Level Prediction
+AU  - Niu, Mingyue; Wang, Xu; Gong, Jibing; Liu, Bin; Tao, Jianhua; Schuller, Björn W.
+T2  - IEEE Transactions on Circuits and Systems for Video Technology
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/tcsvt.2025.3533480
+VL  - 35
+IS  - 6
+SP  - 6195
+EP  - 6210
+AN  - rayyan-522117379
+ER  - 
+
+TY  - JOUR
+TI  - A Transformer‐Based Cross‐Modal Coattention Framework for Multimodal Depression Detection
+AU  - Guo, Weitong; Lin, Ziyu; Li, Xiangguo; Xu, Yaping; Zhang, Sifu; Yang, Hongwu
+T2  - International Journal of Intelligent Systems
+DA  - 2026///
+PY  - 2026
+DO  - 10.1155/int/1866250
+VL  - 2026
+IS  - 1
+SP  - -
+AN  - rayyan-522117410
+ER  - 
+
+TY  - JOUR
+TI  - An Ambient Intelligence-Based Approach for Longitudinal Monitoring of Verbal and Vocal Depression Symptoms
+AU  - Othmani, Alice; Muzammel, Muhammad
+T2  - Lecture Notes in Computer Science
+DA  - 2023///
+PY  - 2023
+DO  - 10.1007/978-3-031-46005-0_18
+SP  - 206
+EP  - 217
+AN  - rayyan-522117438
+ER  - 
+
+TY  - JOUR
+TI  - Fusing audio, visual and textual clues for sentiment analysis from multimodal content
+AU  - Poria, Soujanya; Cambria, Erik; Howard, Newton; Huang, Guang-Bin; Hussain, Amir
+T2  - Neurocomputing
+DA  - 2016///
+PY  - 2016
+DO  - 10.1016/j.neucom.2015.01.095
+VL  - 174
+SP  - 50
+EP  - 59
+AN  - rayyan-522117441
+ER  - 
+
+TY  - JOUR
+TI  - A Hierarchical Fusion Modeling from Perception to Prediction with Personalized Features for Multimodal Depression Detection
+AU  - Zhou, Yingying; Chi, Han; Xue, Jingyao; Gao, Yiming; Hu, Minchi; Wen, Yuhua; Li, Qifei; Gao, Ying...
+T2  - Communications in Computer and Information Science
+DA  - 2026///
+PY  - 2026
+DO  - 10.1007/978-981-95-5382-2_38
+SP  - 494
+EP  - 508
+AN  - rayyan-522117892
+ER  - 
+
+TY  - JOUR
+TI  - IntervoxNet: a novel dual-modal audio-text fusion network for automatic and efficient depression detection from interviews
+AU  - Ding, Huijun; Du, Zhou; Wang, Ziwei; Xue, Junqi; Wei, Zhaoguo; Yang, Kongjun; Jin, Shan; Zhang, Z...
+T2  - Frontiers in Physics
+DA  - 2024///
+PY  - 2024
+DO  - 10.3389/fphy.2024.1430035
+VL  - 12
+SP  - NA
+EP  - NA
+AN  - rayyan-522117987
+ER  - 
+
+TY  - JOUR
+TI  - MPCF: Multi-stage progressive cross-modal fusion for depression severity prediction using audio-Visual modalities
+AU  - Li, Xiangguo; Wang, Ziyang; Guo, Weitong; Yang, Hongwu; Bu, Xiaolong; Bao, Sen; Luo, Zhen
+T2  - Knowledge-Based Systems
+DA  - 2026///
+PY  - 2026
+DO  - 10.1016/j.knosys.2026.115423
+VL  - 337
+SP  - 115423
+EP  - 115423
+AN  - rayyan-522118103
+ER  - 
+
+TY  - JOUR
+TI  - Multimodal Depression Recognition Using Facial Expression and Speech in Imbalanced Data Scenarios
+AU  - Li, Jinlong; Zhang, Weizhao
+T2  - 2025 8th International Conference on Artificial Intelligence and Big Data (ICAIBD)
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/icaibd64986.2025.11082033
+SP  - 519
+EP  - 523
+AN  - rayyan-522118227
+ER  - 
+
+TY  - JOUR
+TI  - A novel audio-visual model with real-time gradient modulation for mental disorder detection
+AU  - Li, Yichun; Li, Yi; Nair, Rajesh; Naqvi, Syed Mohsen
+T2  - Biomedical Signal Processing and Control
+DO  - 10.1016/j.bspc.2026.110164
+VL  - 120
+SP  - 110164-
+AN  - rayyan-522118278
+ER  - 
+
+TY  - JOUR
+TI  - A multimodal computer-aided diagnostic system for depression relapse prediction using audiovisual cues: A proof of concept
+AU  - Othmani, Alice; Zeghina, Assaad Oussama
+T2  - Healthcare Analytics
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.health.2022.100090
+VL  - 2
+SP  - 100090
+EP  - 100090
+AN  - rayyan-522118389
+ER  - 
+
+TY  - JOUR
+TI  - Multimodal Depression Detection Using Task-oriented Transformer-based Embedding
+AU  - Rasipuram, Sowmya; Bhat, Junaid Hamid; Maitra, Anutosh; Shaw, Bishal; Saha, Sriparna
+T2  - 2022 IEEE Symposium on Computers and Communications (ISCC)
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/iscc55528.2022.9913044
+SP  - 1
+EP  - 4
+AN  - rayyan-522118407
+ER  - 
+
+TY  - JOUR
+TI  - ACII Workshops - Multi-Modal Depression Detection and Estimation
+AU  - Yang, Le
+T2  - 2019 8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/aciiw.2019.8925288
+SP  - 26
+EP  - 30
+AN  - rayyan-522118413
+ER  - 
+
+TY  - JOUR
+TI  - AVEC@ACM Multimedia - Depression recognition based on dynamic facial and vocal expression features using partial least square regression
+AU  - Meng, Hongying; Huang, Di; Wang, Heng; Yang, Hongyu; AI-Shuraifi, Mohammed; Wang, Yunhong
+T2  - Proceedings of the 3rd ACM international workshop on Audio/visual emotion challenge
+DA  - 2013///
+PY  - 2013
+DO  - 10.1145/2512530.2512532
+SP  - 21
+EP  - 30
+AN  - rayyan-522118465
+ER  - 
+
+TY  - JOUR
+TI  - Depression Scale Recognition from Audio, Visual and Text Analysis
+AU  - Dham, Shubham; Sharma, Anirudh; Dhall, Abhinav
+T2  - arXiv: Computer Vision and Pattern Recognition
+DA  - 2017///
+PY  - 2017
+SP  - NA
+EP  - NA
+AN  - rayyan-522118493
+ER  - 
+
+TY  - JOUR
+TI  - AVEC@MM - Fusing Affective Dimensions and Audio-Visual Features from Segmented Video for Depression Recognition: INAOE-BUAP's Participation at AVEC'14 Challenge
+AU  - Espinosa, Humberto Pérez; Escalante, Hugo Jair; Villaseñor-Pineda, Luis; Montes-y-Gómez, Manuel; ...
+T2  - Proceedings of the 4th International Workshop on Audio/Visual Emotion Challenge
+DA  - 2014///
+PY  - 2014
+DO  - 10.1145/2661806.2661815
+SP  - 49
+EP  - 55
+AN  - rayyan-522118540
+ER  - 
+
+TY  - JOUR
+TI  - Depression Detection Based on Multilevel Semantic Features
+AU  - Yao, Xingda; Ying, Lingkang; He, Tianxiang; Ren, Ligang; Xu, Ruiji; Mao, Keji
+T2  - Lecture Notes in Computer Science
+DA  - 2024///
+PY  - 2024
+DO  - 10.1007/978-3-031-72353-7_4
+SP  - 44
+EP  - 55
+AN  - rayyan-522118565
+ER  - 
+
+TY  - JOUR
+TI  - ICPRAM - Fusion of Audio-visual Features using Hierarchical Classifier Systems for the Recognition of Affective States and the State of Depression
+AU  - Kächele, Markus; Glodek, Michael; Zharkov, Dimitrij; Meudt, Sascha; Schwenker, Friedhelm
+T2  - Proceedings of the 3rd International Conference on Pattern Recognition Applications and Methods
+DA  - 2014///
+PY  - 2014
+DO  - 10.5220/0004828606710678
+SP  - 671
+EP  - 678
+AN  - rayyan-522118609
+ER  - 
+
+TY  - JOUR
+TI  - ICMI - Multimodal Detection of Depression in Clinical Interviews
+AU  - Dibeklioglu, Hamdi; Hammal, Zakia; Yang, Ying; Cohn, Jeffrey F.
+T2  - Proceedings of the ... ACM International Conference on Multimodal Interaction. ICMI (Conference)
+DA  - 2015///
+PY  - 2015
+DO  - 10.1145/2818346.2820776
+VL  - 2015
+SP  - 307
+EP  - 310
+AN  - rayyan-522118663
+ER  - 
+
+TY  - JOUR
+TI  - Reading Between the Frames: Multi-modal Depression Detection in Videos from Non-verbal Cues
+AU  - Gimeno-Gómez, David; Bucur, Ana-Maria; Cosma, Adrian; Martínez-Hinarejos, Carlos-David; Rosso, Paolo
+T2  - Lecture Notes in Computer Science
+DA  - 2024///
+PY  - 2024
+DO  - 10.1007/978-3-031-56027-9_12
+SP  - 191
+EP  - 209
+AN  - rayyan-522118805
+ER  - 
+
+TY  - JOUR
+TI  - Depression Detection Using Stacked Autoencoder from Facial Features and NLP
+AU  - Kumar, Ravi; Nagar, Santosh Kumar; Shrivastava, Anurag
+T2  - IJOSTHE
+DA  - 2020///
+PY  - 2020
+DO  - 10.24113/ojssports.v7i1.115
+VL  - 7
+IS  - 1
+SP  - 1
+EP  - 7
+AN  - rayyan-522118822
+ER  - 
+
+TY  - JOUR
+TI  - Bi-stage QWOA-Based Efficient Feature Selection for Enhanced Depression Detection Based on Facial Cues
+AU  - Rathi, Swati; Kaur, Baljeet; Agrawal, R. K.
+T2  - Lecture Notes in Networks and Systems
+DA  - 2023///
+PY  - 2023
+DO  - 10.1007/978-3-031-27524-1_24
+SP  - 248
+EP  - 264
+AN  - rayyan-522118848
+ER  - 
+
+TY  - JOUR
+TI  - Automatic Depression Detection via Learning and Fusing Features From Visual Cues
+AU  - Guo, Yanrong; Zhu, Chenyang; Hao, Shijie; Hong, Richang
+T2  - IEEE Transactions on Computational Social Systems
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/tcss.2022.3202316
+VL  - 10
+IS  - 5
+SP  - 2806
+EP  - 2813
+AN  - rayyan-522118878
+ER  - 
+
+TY  - JOUR
+TI  - A review of multimodal depression detection methods using smartphone usage and audio-visual clues
+AU  - Prasad, Thati Ravi; Kumar, Praveen
+T2  - Iran Journal of Computer Science
+DA  - 2026///
+PY  - 2026
+DO  - 10.1007/s42044-025-00359-0
+VL  - 9
+IS  - 1
+SP  - -NA
+AN  - rayyan-522118890
+ER  - 
+
+TY  - JOUR
+TI  - Taking All the Factors We Need: A Multimodal Depression Classification With Uncertainty Approximation
+AU  - Ahmed, Sabbir; Abu Yousuf, Mohammad; Monowar, Muhammad Mostafa; Hamid, Abdul; Alassafi, Madini O.
+T2  - IEEE Access
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/access.2023.3315243
+VL  - 11
+SP  - 99847
+EP  - 99861
+AN  - rayyan-522119031
+ER  - 
+
+TY  - JOUR
+TI  - Retracted: Diagnostic Criteria for Depression based on Both Static and Dynamic Visual Features
+AU  - Pandya, Darshanaben Dipakkumar; Jadeja, Abhijeetsinh; Degadwala, Sheshang; Vyas, Dhairya
+T2  - 2023 International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/idciot56793.2023.10053450
+SP  - 635
+EP  - 639
+AN  - rayyan-522119138
+ER  - 
+
+TY  - JOUR
+TI  - Multimodal Fusion for Dementia Detection using Voice and Facial Features
+AU  - Chen, Jia-Yi; Chu, Wei-Ta
+T2  - 2025 IEEE International Symposium on Circuits and Systems (ISCAS)
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/iscas56072.2025.11043557
+SP  - 1
+EP  - 5
+AN  - rayyan-522119254
+ER  - 
+
+TY  - JOUR
+TI  - Depression detection using deep learning and large language models from multimodalities
+AU  - Hussain, Yasir; Zaheer, Muhammad Asad; Khan, Ayaz Muhammad; Malik, Aamir Saeed
+T2  - Frontiers Media SA
+DA  - 2026///
+PY  - 2026
+DO  - 10.3389/fdgth.2026.1759857
+VL  - 8
+SP  - -
+AN  - rayyan-522119268
+ER  - 
+
+TY  - JOUR
+TI  - JMSC: Joint Spatial-Temporal Modeling with Semantic Completion for Audio-Visual Learning.
+AU  - Xu, Xinfu; Yang, Fan; Yu, Zhibin
+T2  - Sensors (Basel, Switzerland)
+DA  - 2026///
+PY  - 2026
+DO  - 10.3390/s26041288
+VL  - 26
+IS  - 4
+SP  - 1288
+EP  - 1288
+AN  - rayyan-522119289
+ER  - 
+
+TY  - JOUR
+TI  - SFTNet: A microexpression-based method for depression detection.
+AU  - Li, Xingyun; Yi, Xinyu; Ye, Jiayu; Zheng, Yunshao; Wang, Qingxiang
+T2  - Computer methods and programs in biomedicine
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.cmpb.2023.107923
+VL  - 243
+SP  - 107923
+EP  - 107923
+AN  - rayyan-522119401
+ER  - 
+
+TY  - JOUR
+TI  - Tracking depression severity from audio and video based on speech articulatory coordination
+AU  - Williamson, James R.; Young, Diana; Nierenberg, Andrew A.; Niemi, James B.; Helfer, Brian S.; Qua...
+T2  - Computer Speech & Language
+DA  - 2019///
+PY  - 2019
+DO  - 10.1016/j.csl.2018.08.004
+VL  - 55
+SP  - 40
+EP  - 56
+AN  - rayyan-522119442
+ER  - 
+
+TY  - JOUR
+TI  - A Feasibility Study of Autism Behavioral Markers in Spontaneous Facial, Visual, and Hand Movement Response Data
+AU  - Samad, Manar D.; Diawara, Norou; Bobzien, Jonna; Harrington, John W.; Witherow, Megan A.; Iftekha...
+T2  - IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/tnsre.2017.2768482
+VL  - 26
+IS  - 2
+SP  - 353
+EP  - 361
+AN  - rayyan-522119547
+ER  - 
+
+TY  - JOUR
+TI  - EMBC - Automated Verbal and Non-verbal Speech Analysis of Interviews of Individuals with Schizophrenia and Depression
+AU  - Xu, Shihao; Yang, Zixu; Chakraborty, Debsubhra; Chua, Yi Han Victoria; Dauwels, Justin; Thalmann,...
+T2  - Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/embc.2019.8857071
+VL  - 2019
+SP  - 225
+EP  - 228
+AN  - rayyan-522119679
+ER  - 
+
+TY  - JOUR
+TI  - Artificial Intelligent System for Automatic Depression Level Analysis Through Visual and Vocal Expressions
+AU  - Jan, Asim
+AU  - Meng, Hongying
+AU  - Gaus, Yona Falinie Binti A.
+AU  - Zhang, Fan
+T2  - IEEE Transactions on Cognitive and Developmental Systems
+AB  - A human being’s cognitive system can be simulated by artiﬁcial intelligent systems. Machines and robots equipped with cognitive capability can automatically recognize a humans mental state through their gestures and facial expressions. In this paper, an artiﬁcial intelligent system is proposed to monitor depression. It can predict the scales of Beck depression inventory II (BDI-II) from vocal and visual expressions. First, different visual features are extracted from facial expression images. Deep learning method is utilized to extract key visual features from the facial expression frames. Second, spectral lowlevel descriptors and mel-frequency cepstral coefﬁcients features are extracted from short audio segments to capture the vocal expressions. Third, feature dynamic history histogram (FDHH) is proposed to capture the temporal movement on the feature space. Finally, these FDHH and audio features are fused using regression techniques for the prediction of the BDI-II scales. The proposed method has been tested on the public Audio/Visual Emotion Challenges 2014 dataset as it is tuned to be more focused on the study of depression. The results outperform all the other existing methods on the same dataset.
+DA  - 2018/09//
+PY  - 2018
+DO  - 10.1109/TCDS.2017.2721552
+DP  - DOI.org (Crossref)
+VL  - 10
+IS  - 3
+SP  - 668
+EP  - 680
+J2  - IEEE Trans. Cogn. Dev. Syst.
+LA  - en
+SN  - 2379-8920, 2379-8939
+UR  - https://ieeexplore.ieee.org/document/7997822/
+Y2  - 2026/06/11/04:53:31
+ER  - 
+
+TY  - CONF
+TI  - AVEC 2018 Workshop and Challenge: Bipolar Disorder and Cross-Cultural Affect Recognition
+AU  - Ringeval, Fabien
+AU  - Schuller, Björn
+AU  - Valstar, Michel
+AU  - Cowie, Roddy
+AU  - Kaya, Heysem
+AU  - Schmitt, Maximilian
+AU  - Amiriparian, Shahin
+AU  - Cummins, Nicholas
+AU  - Lalanne, Denis
+AU  - Michaud, Adrien
+AU  - Ciftçi, Elvan
+AU  - Güleç, Hüseyin
+AU  - Salah, Albert Ali
+AU  - Pantic, Maja
+T3  - AVEC'18
+AB  - The Audio/Visual Emotion Challenge and Workshop (AVEC 2018) "Bipolar disorder, and cross-cultural affect recognition'' is the eighth competition event aimed at the comparison of multimedia processing and machine learning methods for automatic audiovisual health and emotion analysis, with all participants competing strictly under the same conditions. The goal of the Challenge is to provide a common benchmark test set for multimodal information processing and to bring together the health and emotion recognition communities, as well as the audiovisual processing communities, to compare the relative merits of various approaches to health and emotion recognition from real-life data. This paper presents the major novelties introduced this year, the challenge guidelines, the data used, and the performance of the baseline systems on the three proposed tasks: bipolar disorder classification, cross-cultural dimensional emotion recognition, and emotional label generation from individual ratings, respectively.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2018 on Audio/Visual Emotion Challenge and Workshop
+DA  - 2018/10/15/
+PY  - 2018
+DO  - 10.1145/3266302.3266316
+DP  - ACM Digital Library
+SP  - 3
+EP  - 13
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-5983-2
+ST  - AVEC 2018 Workshop and Challenge
+UR  - https://dl.acm.org/doi/10.1145/3266302.3266316
+Y2  - 2026/06/16/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3266302.3266316
+ER  - 
+
+TY  - CONF
+TI  - Automated Screening for Bipolar Disorder from Audio/Visual Modalities
+AU  - Syed, Zafi Sherhan
+AU  - Sidorov, Kirill
+AU  - Marshall, David
+T3  - AVEC'18
+AB  - This paper addresses the Bipolar Disorder sub-challenge of the Audio/Visual Emotion recognition Challenge (AVEC) 2018, where the objective is to classify patients suffering from bipolar disorder into states of remission, hypo-mania, and mania, from audio-visual recordings of structured interviews. To this end, we propose 'turbulence features' to capture sudden, erratic changes in feature contours from audio and visual modalities, and demonstrate their efficacy for the task at hand. We introduce Fisher Vector encoding of ComParE low level descriptors (LLDs) and demonstrate that these features are viable for screening of bipolar disorder from speech. We also perform several experiments with standard feature sets from the OpenSmile toolkit as well as multi-modal fusion. The best result achieved on the test set is a UAR = 57.41%, which matches the best result published as the official baseline.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2018 on Audio/Visual Emotion Challenge and Workshop
+DA  - 2018/10/15/
+PY  - 2018
+DO  - 10.1145/3266302.3266315
+DP  - ACM Digital Library
+SP  - 39
+EP  - 45
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-5983-2
+UR  - https://dl.acm.org/doi/10.1145/3266302.3266315
+Y2  - 2026/06/16/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3266302.3266315
+ER  - 
+
+TY  - CONF
+TI  - Multi-modality Hierarchical Recall based on GBDTs for Bipolar Disorder Classification
+AU  - Xing, Xiaofen
+AU  - Cai, Bolun
+AU  - Zhao, Yinhu
+AU  - Li, Shuzhen
+AU  - He, Zhiwei
+AU  - Fan, Weiquan
+T3  - AVEC'18
+AB  - In this paper, we propose a novel hierarchical recall model fusing multiple modality (including audio, video and text) for bipolar disorder classification, where patients with different mania level are recalled layer-by-layer. To address the complex distribution on the challenge data, the proposed framework utilizes multi-model, multi-modality and multi-layer to perform domain adaptation for each patient and hard sample mining for special patients. The experimental results show that our framework achieves competitive performance with Unweighed Average Recall (UAR) of 57.41% on the test set, and 86.77% on the development set.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2018 on Audio/Visual Emotion Challenge and Workshop
+DA  - 2018/10/15/
+PY  - 2018
+DO  - 10.1145/3266302.3266311
+DP  - ACM Digital Library
+SP  - 31
+EP  - 37
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-5983-2
+UR  - https://dl.acm.org/doi/10.1145/3266302.3266311
+Y2  - 2026/06/17/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3266302.3266311
+ER  - 
+

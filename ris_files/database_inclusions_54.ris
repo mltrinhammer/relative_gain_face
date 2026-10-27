@@ -1,0 +1,1940 @@
+TY  - CONF
+TI  - Automatic Detection of Self-Adaptors for Psychological Distress
+AU  - W. Lin
+AU  - I. Orton
+AU  - M. Liu
+AU  - M. Mahmoud
+T2  - 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020)
+AB  - Psychological distress is a significant and growing issue in society. Automatic detection, assessment, and analysis of such distress is an active area of research. Compared to modalities such as face, head, and vocal, research investigating the use of the body modality for these tasks is relatively sparse. This is, in part, due to the lack of available datasets and difficulty in automatically extracting useful body features. Recent advances in pose estimation and deep learning have enabled new approaches to this modality and domain. We propose a novel method to automatically detect self-adaptors and fidgeting, a subset of self-adaptors that has been shown to be correlated with psychological distress. We also propose a multi-modal approach that combines different feature representations using Multi-modal Deep Denoising Auto-Encoders and Improved Fisher Vector encoding. We also demonstrate that our proposed model, combining audio-visual features with automatically detected fidgeting behavioral cues, can successfully predict distress levels in a dataset labeled with self-reported anxiety and depression levels. To enable this research we introduce a new dataset containing full body videos for short interviews and self-reported distress labels.
+C3  - 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020)
+DA  - 2020/11/16/20
+PY  - 2020
+DO  - 10.1109/FG47880.2020.00032
+SP  - 371
+EP  - 378
+KW  - Depression
+KW  - machine learning
+KW  - Psychology
+KW  - Feature extraction
+KW  - Task analysis
+KW  - Videos
+KW  - Encoding
+KW  - Detectors
+KW  - fidgeting
+KW  - psychological distress
+KW  - self adaptors
+ER  - 
+
+TY  - JOUR
+TI  - Multimodal depression recognition and analysis: Facial expression and body posture changes via emotional stimuli.
+AU  - Liu, Yang
+AU  - Li, Xingyun
+AU  - Wang, Mengqi
+AU  - Bi, Jianlu
+AU  - Lin, Shaoqin
+AU  - Wang, Qingxiang
+AU  - Yu, Yanhong
+AU  - Ye, Jiayu
+AU  - Zheng, Yunshao
+T2  - Journal of affective disorders
+AB  - BACKGROUND: Clinical studies have shown that facial expressions and body posture in depressed patients differ significantly from those of healthy individuals.  Combining relevant behavioral features with artificial intelligence technology  can effectively improve the efficiency of depression detection, thereby assisting  doctors in early identification of patients. This study aims to develop an  end-to-end multimodal recognition model combining facial expressions and body  posture via deep learning techniques, enabling rapid preliminary screening of  depression. METHODS: We invited 146 subjects (73 in the patient group and 73 in  the control group) to participate in an emotion-stimulus experiment for  depression recognition. We focused on differentiating depression patients from  the control group by analyzing changes in body posture and facial expressions  under emotional stimuli. We first extracted images of body position and facial  emotions from the video, then used a pre-trained ResNet-50 network to extract  features. Additionally, we analyzed facial expression features using OpenFace for  sequence analysis. Subsequently, various deep learning frameworks were combined  to assess the severity of depression. RESULTS: We found that under different  stimuli, facial expression units AU04, AU07, AU10, AU12, AU17, and AU26 had  significant effects in the emotion-stimulus experiment, with these features  generally being negative. The decision-level fusion model based on facial  expressions and body posture achieved excellent results, with the highest  accuracy of 0.904 and an F1 score of 0.901. CONCLUSIONS: The experimental results  suggest that depression patients exhibit predominantly negative facial  expressions. This study validates the emotion-stimulus experiment, demonstrating  that combining facial expressions and body posture enables accurate preliminary  depression screening.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.jad.2025.03.155
+VL  - 381
+SP  - 44
+EP  - 54
+J2  - J Affect Disord
+LA  - eng
+SN  - 1573-2517 0165-0327
+AN  - rayyan-496949570
+Y2  - 0007/01/01/
+KW  - Humans
+KW  - Depression recognition
+KW  - Adult
+KW  - Female
+KW  - Male
+KW  - Middle Aged
+KW  - Facial expressions
+KW  - *Deep Learning
+KW  - *Depression/diagnosis
+KW  - *Depressive Disorder/diagnosis
+KW  - *Emotions/physiology
+KW  - *Facial Expression
+KW  - *Posture/physiology
+KW  - Body posture
+KW  - Emotional stimuli
+ER  - 
+
+TY  - JOUR
+TI  - Deep learning-based detection of depression by fusing auditory, visual and textual clues.
+AU  - Xu, Chenyang
+AU  - Chen, Yangbin
+AU  - Tao, Yanbao
+AU  - Xie, Wanqing
+AU  - Liu, Xiaofeng
+AU  - Lin, Yunhan
+AU  - Liang, Chunfeng
+AU  - Du, Fan
+AU  - Lin, Zhixiong
+AU  - Shi, Chuan
+T2  - Journal of affective disorders
+AB  - BACKGROUND: Early detection of depression is crucial for implementing interventions. Deep learning-based computer vision (CV), semantic, and acoustic  analysis have enabled the automated analysis of visual and auditory signals.  OBJECTIVE: We proposed an automated depression detection model based on  artificial intelligence (AI) that integrated visual, auditory, and textual clues.  Moreover, we validated the model's performance in multiple scenarios, including  interviews with chatbot. METHODS: A chatbot for depressive symptom inquiry  powered by GPT-2.0 was developed. The brief affective interview task was designed  as supplement. Audio-video and textual clues were captured during interview, and  features from different modalities were fused using a multi-head cross-attention  network. To validate the model's generalizability, we performed external  validation with an independent dataset. RESULTS: (1)In the internal validation  set (152 depression patients and 118 healthy controls), the multimodal model  demonstrated strong predictive power for depression in all scenarios, with an  area under the curve (AUC) exceeding 0.950 and an accuracy over 0.930. Under the  symptomatic interview by chatbot scenario, the model showed exceptional  performance, achieving an AUC of 0.999. Specificity decreases slightly (0.883) in  the Brief Affective Interview Task. The multimodal model outperformed unimodal  and bimodal counterparts. (2)For external validation under the symptomatic  interview by chatbot scenario, a geographically distinct dataset (55 depression  patients and 45 healthy controls) was employed. The multimodal fusion model  achieved an AUC of 0.978, though all modality combinations exhibited reduced  performance compared to internal validation. LIMITATIONS: Longitudinal follow-up  was not conducted in this study, and severe depression applicability requires  further study.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.jad.2025.119860
+VL  - 391
+SP  - 119860
+J2  - J Affect Disord
+LA  - eng
+SN  - 1573-2517 0165-0327
+AN  - rayyan-496949574
+Y2  - 0012/01/01/
+KW  - Deep learning
+KW  - Depression
+KW  - Humans
+KW  - Artificial intelligence (AI)
+KW  - Adult
+KW  - Female
+KW  - Male
+KW  - Middle Aged
+KW  - *Deep Learning
+KW  - *Depression/diagnosis
+KW  - *Depressive Disorder/diagnosis
+KW  - Computer vision (CV)
+KW  - Multi-modality
+ER  - 
+
+TY  - JOUR
+TI  - Diagnosis of depression based on facial multimodal data.
+AU  - Jin, Nani
+AU  - Ye, Renjia
+AU  - Li, Peng
+T2  - Frontiers in psychiatry
+AB  - INTRODUCTION: Depression is a serious mental health disease. Traditional scale-based depression diagnosis methods often have problems of strong  subjectivity and high misdiagnosis rate, so it is particularly important to  develop automatic diagnostic tools based on objective indicators. METHODS: This  study proposes a deep learning method that fuses multimodal data to automatically  diagnose depression using facial video and audio data. We use spatiotemporal  attention module to enhance the extraction of visual features and combine the  Graph Convolutional Network (GCN) and the Long and Short Term Memory (LSTM) to  analyze the audio features. Through the multi-modal feature fusion, the model can  effectively capture different feature patterns related to depression. RESULTS: We  conduct extensive experiments on the publicly available clinical dataset, the  Extended Distress Analysis Interview Corpus (E-DAIC). The experimental results  show that we achieve robust accuracy on the E-DAIC dataset, with a Mean Absolute  Error (MAE) of 3.51 in estimating PHQ-8 scores from recorded interviews.  DISCUSSION: Compared with existing methods, our model shows excellent performance  in multi-modal information fusion, which is suitable for early evaluation of  depression.
+DA  - 2025///
+PY  - 2025
+DO  - 10.3389/fpsyt.2025.1508772
+VL  - 16
+SP  - 1508772
+J2  - Front Psychiatry
+LA  - eng
+SN  - 1664-0640
+AN  - rayyan-496949650
+L1  - https://www.frontiersin.org/articles/10.3389/fpsyt.2025.1508772/pdf
+KW  - depression
+KW  - artificial intelligence
+KW  - feature fusion
+KW  - multi-modal data
+KW  - spatial-temporal attention
+ER  - 
+
+TY  - JOUR
+TI  - A multimodal cross-transformer-based model to predict mild cognitive impairment using speech, language and vision.
+AU  - Poor, Farida Far
+AU  - Dodge, Hiroko H.
+AU  - Mahoor, Mohammad H.
+T2  - Computers in biology and medicine
+AB  - Mild Cognitive Impairment (MCI) is an early stage of memory loss or other cognitive ability loss in individuals who maintain the ability to independently  perform most activities of daily living. It is considered a transitional stage  between normal cognitive stage and more severe cognitive declines like dementia  or Alzheimer's. Based on the reports from the National Institute of Aging (NIA),  people with MCI are at a greater risk of developing dementia, thus it is of great  importance to detect MCI at the earliest possible to mitigate the transformation  of MCI to Alzheimer's and dementia. Recent studies have harnessed Artificial  Intelligence (AI) to develop automated methods to predict and detect MCI. The  majority of the existing research is based on unimodal data (e.g., only speech or  prosody), but recent studies have shown that multimodality leads to a more  accurate prediction of MCI. However, effectively exploiting different modalities  is still a big challenge due to the lack of efficient fusion methods. This study  proposes a robust fusion architecture utilizing an embedding-level fusion via a  co-attention mechanism to leverage multimodal data for MCI prediction. This  approach addresses the limitations of early and late fusion methods, which often  fail to preserve inter-modal relationships. Our embedding-level fusion aims to  capture complementary information across modalities, enhancing predictive  accuracy. We used the I-CONECT dataset, where a large number of semi-structured  conversations via internet/webcam between participants aged 75+ years old and  interviewers were recorded. We introduce a multimodal speech-language-vision Deep  Learning-based method to differentiate MCI from Normal Cognition (NC). Our  proposed architecture includes co-attention blocks to fuse three different  modalities at the embedding level to find the potential interactions between  speech (audio), language (transcribed speech), and vision (facial videos) within  the cross-Transformer layer. Experimental results demonstrate that our fusion  method achieves an average AUC of 85.3% in detecting MCI from NC, significantly  outperforming unimodal (60.9%) and bimodal (76.3%) baseline models. This superior  performance highlights the effectiveness of our model in capturing and utilizing  the complementary information from multiple modalities, offering a more accurate  and reliable approach for MCI prediction.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.compbiomed.2024.109199
+VL  - 182
+SP  - 109199
+J2  - Comput Biol Med
+LA  - eng
+SN  - 1879-0534 0010-4825
+AN  - rayyan-496949680
+Y2  - 0011/01/01/
+KW  - Humans
+KW  - Artificial Intelligence
+KW  - Female
+KW  - Male
+KW  - Aged
+KW  - Mild cognitive impairment
+KW  - Aged, 80 and over
+KW  - Language
+KW  - *Cognitive Dysfunction/diagnosis
+KW  - *Speech/physiology
+KW  - Multimodal data
+KW  - Co-attention
+KW  - Cross-transformer
+KW  - MCI detection
+KW  - Vision, Ocular/physiology
+ER  - 
+
+TY  - JOUR
+TI  - A Model of Normality Inspired Deep Learning Framework for Depression Relapse Prediction Using Audiovisual Data.
+AU  - Othmani, Alice
+AU  - Zeghina, Assaad-Oussama
+AU  - Muzammel, Muhammad
+T2  - Computer methods and programs in biomedicine
+AB  - BACKGROUND: Depression (Major Depressive Disorder) is one of the most common mental illnesses. According to the World Health Organization, more than 300  million people in the world are affected. A first depressive episode can be  solved by a spontaneous remission within 6 to 12 months. It has been shown that  depression affects speech production and facial expressions. Although numerous  studies are proposed in the literature for depression recognition using  audiovisual cues, depression relapse using audiovisual cues has not been studied  in the literature. METHOD: In this paper, we propose a deep learning-based  approach for depression recognition and depression relapse prediction using  audiovisual data. For more versatility and reusability, the proposed approach is  based on a Model of Normality inspired framework where we define depression  relapse by the closeness of the audiovisual patterns of a subject after a  symptom-free period to the audiovisual patterns of depressed subjects. A model of  Normality is an anomaly detection distance-based approach that computes a  distance of normality between the deep audiovisual encoding of a test sample and  a learned representation from audiovisual encodings of anomaly-free data.  RESULTS: The proposed approach shows a very promising results with an accuracy of  87.4% and a F1-score of 82.3% for relapse/depression prediction using a  Leave-One-Subject-Out training strategy on the DAIC-Woz dataset. CONCLUSION: The  proposed model of normality-based framework is accurate in detecting depression  and in predicting depression relapse. A prospective monitoring system is proposed  for assisting depressed patients. The proposed framework is easily extensible and  others modalities will be integrated in future works.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.cmpb.2022.107132
+VL  - 226
+SP  - 107132
+J2  - Comput Methods Programs Biomed
+LA  - eng
+SN  - 1872-7565 0169-2607
+AN  - rayyan-496949689
+Y2  - 0011/01/01/
+KW  - Deep learning
+KW  - Humans
+KW  - Depression relapse prediction
+KW  - *Deep Learning
+KW  - Recurrence
+KW  - Prospective Studies
+KW  - *Major Depressive Disorder/diagnosis
+KW  - Depression/diagnosis
+KW  - Biomedical application
+KW  - Clinical depression
+KW  - Computer-aided diagnosis (CAD)
+KW  - Health informatics
+KW  - Video analysis
+ER  - 
+
+TY  - JOUR
+TI  - Automated Video Analysis of Audio-Visual Approaches to Predict and Detect Mild Cognitive Impairment and Dementia in Older Adults.
+AU  - Chu, Che-Sheng
+AU  - Wang, Di-Yuan
+AU  - Liang, Chih-Kuang
+AU  - Chou, Ming-Yueh
+AU  - Hsu, Ying-Hsin
+AU  - Wang, Yu-Chun
+AU  - Liao, Mei-Chen
+AU  - Chu, Wei-Ta
+AU  - Lin, Yu-Te
+T2  - Journal of Alzheimer's disease : JAD
+AB  - BACKGROUND: Early identification of different stages of cognitive impairment is important to provide available intervention and timely care for the elderly.  OBJECTIVE: This study aimed to examine the ability of the artificial intelligence  (AI) technology to distinguish participants with mild cognitive impairment (MCI)  from those with mild to moderate dementia based on automated video analysis.  METHODS: A total of 95 participants were recruited (MCI, 41; mild to moderate  dementia, 54). The videos were captured during the Short Portable Mental Status  Questionnaire process; the visual and aural features were extracted using these  videos. Deep learning models were subsequently constructed for the binary  differentiation of MCI and mild to moderate dementia. Correlation analysis of the  predicted Mini-Mental State Examination, Cognitive Abilities Screening Instrument  scores, and ground truth was also performed. RESULTS: Deep learning models  combining both the visual and aural features discriminated MCI from mild to  moderate dementia with an area under the curve (AUC) of 77.0% and accuracy of  76.0%. The AUC and accuracy increased to 93.0% and 88.0%, respectively, when  depression and anxiety were excluded. Significant moderate correlations were  observed between the predicted cognitive function and ground truth, and the  correlation was strong excluding depression and anxiety. Interestingly, female,  but not male, exhibited a correlation. CONCLUSION: The study showed that  video-based deep learning models can differentiate participants with MCI from  those with mild to moderate dementia and can predict cognitive function. This  approach may offer a cost-effective and easily applicable method for early  detection of cognitive impairment.
+DA  - 2023///
+PY  - 2023
+DO  - 10.3233/JAD-220999
+VL  - 92
+IS  - 3
+SP  - 875
+EP  - 886
+J2  - J Alzheimers Dis
+LA  - eng
+SN  - 1875-8908 1387-2877
+AN  - rayyan-496949703
+KW  - Humans
+KW  - Artificial intelligence
+KW  - machine learning
+KW  - Artificial Intelligence
+KW  - Female
+KW  - Neuropsychological Tests
+KW  - Cognition
+KW  - *Cognitive Dysfunction/diagnosis/psychology
+KW  - Aged
+KW  - dementia
+KW  - mild cognitive impairment
+KW  - *Dementia/diagnosis/psychology
+KW  - video analysis
+ER  - 
+
+TY  - JOUR
+TI  - Diagnosis Framework for Probable Alzheimer's Disease and Mild Cognitive Impairment Based on Multi-Dimensional Emotion Features.
+AU  - Zhang, Chunchao
+AU  - Lei, Xiaolin
+AU  - Ma, Wenhao
+AU  - Long, Jinyi
+AU  - Long, Shun
+AU  - Chen, Xiang
+AU  - Luo, Jun
+AU  - Tao, Qian
+T2  - Journal of Alzheimer's disease : JAD
+AB  - BACKGROUND: Emotion and cognition are intercorrelated. Impaired emotion is common in populations with Alzheimer's disease (AD) and mild cognitive impairment (MCI),  showing promises as an early detection approach. OBJECTIVE: We aim to develop a  novel automatic classification tool based on emotion features and machine  learning. METHODS: Older adults aged 60 years or over were recruited among  residents in the long-term care facilities and the community. Participants  included healthy control participants with normal cognition (HC, n = 26),  patients with MCI (n = 23), and patients with probable AD (n = 30). Participants  watched emotional film clips while multi-dimensional emotion data were collected,  including mental features of Self-Assessment Manikin (SAM), physiological  features of electrodermal activity (EDA), and facial expressions. Emotional  features of EDA and facial expression were abstracted by using continuous  decomposition analysis and EomNet, respectively. Bidirectional long short-term  memory (Bi-LSTM) was used to train classification model. Hybrid fusion was used,  including early feature fusion and late decision fusion. Data from 79  participants were utilized into deep machine learning analysis and hybrid fusion  method. RESULTS: By combining multiple emotion features, the model's performance  of AUC value was highest in classification between HC and probable AD  (AUC = 0.92), intermediate between MCI and probable AD (AUC = 0.88), and lowest  between HC and MCI (AUC = 0.82). CONCLUSIONS: Our method demonstrated an  excellent predictive power to differentiate HC/MCI/AD by fusion of multiple  emotion features. The proposed model provides a cost-effective and automated  method that can assist in detecting probable AD and MCI from normal aging.
+DA  - 2024///
+PY  - 2024
+DO  - 10.3233/JAD-230703
+VL  - 97
+IS  - 3
+SP  - 1125
+EP  - 1137
+J2  - J Alzheimers Dis
+LA  - eng
+SN  - 1875-8908 1387-2877
+AN  - rayyan-496949775
+KW  - Humans
+KW  - machine learning
+KW  - Emotions
+KW  - Cognition
+KW  - Alzheimer’s disease
+KW  - Aged
+KW  - Magnetic Resonance Imaging/methods
+KW  - *Alzheimer Disease/diagnostic imaging
+KW  - emotion
+KW  - *Cognitive Dysfunction/diagnostic imaging
+KW  - cognitive impairment
+ER  - 
+
+TY  - JOUR
+TI  - MDD-MARF: a multimodal depression detection model based on multi-level attention mechanism and residual fusion.
+AU  - Zhou, Jianghai
+AU  - Ge, Jike
+AU  - Chen, Zuqin
+AU  - Tan, Jie
+AU  - Li, You
+T2  - Journal of biomedical informatics
+AB  - OBJECTIVE: Depression is a serious mental disorder that significantly affects patients' work ability and social functioning. With the rapid development of  artificial intelligence, researchers have begun to explore automatic depression  detection methods based on multimodal data. However, multimodal data are often  accompanied by a large amount of noise. Existing methods usually lack sufficient  feature screening after extraction and are directly applied to downstream tasks,  which may limit the model's generalization ability. In addition, current  multimodal fusion strategies still face several challenges. METHODS: To address  these challenges, we propose a novel multimodal depression detection model that  integrates three modalities: audio, vision, and text. The model extracts  depression-related key features through a multi-level attention mechanism and  achieves efficient multimodal feature fusion using skip connections with a  residual structure. RESULTS: Experiments conducted on the DAIC-WOZ dataset showed  that the proposed method achieved a mean absolute error (MAE) of 3.13 and a root  mean square error (RMSE) of 3.59, outperforming existing state-of-the-art models.  The generalization ability of the model was further validated on the E-DAIC  dataset, demonstrating its effectiveness and robustness. CONCLUSION: The proposed  method provides an efficient and reliable solution for depression detection using  multimodal data and multi-level attention mechanisms. The findings highlight the  significant value of multimodal learning in the medical field and offer strong  support for the development of AI-assisted clinical decision-making systems.
+DA  - 2026///
+PY  - 2026
+DO  - 10.1016/j.jbi.2025.104965
+VL  - 173
+SP  - 104965
+J2  - J Biomed Inform
+LA  - eng
+SN  - 1532-0480 1532-0464
+AN  - rayyan-496949937
+Y2  - 0001/01/01/
+KW  - Algorithms
+KW  - Humans
+KW  - Depression detection
+KW  - Artificial Intelligence
+KW  - Multimodal
+KW  - Databases, Factual
+KW  - *Depression/diagnosis
+KW  - *Major Depressive Disorder/diagnosis
+KW  - Multi-level attention mechanism
+KW  - Residual fusion
+ER  - 
+
+TY  - JOUR
+TI  - Measurement of neuropsychiatric symptoms in the older adults with mild cognitive impairment based on speech and facial expressions: a cross-sectional  observational study.
+AU  - Zhou, Ying
+AU  - Yao, Xiuyu
+AU  - Han, Wei
+AU  - Li, Yingxin
+AU  - Xue, Jiajun
+AU  - Li, Zheng
+T2  - Aging & mental health
+AB  - OBJECTIVES: To examine the association between speech and facial features with depression, anxiety, and apathy in older adults with mild cognitive impairment  (MCI). METHODS: Speech and facial expressions of 319 MCI patients were digitally  recorded via audio and video recording software. Three of the most common  neuropsychiatric symptoms (NPS) were evaluated by the Public Health  Questionnaire, General Anxiety Disorder, and Apathy Evaluation Scale,  respectively. Speech and facial features were extracted using the open-source  data analysis toolkits. Machine learning techniques were used to validate the  diagnostic power of extracted features. RESULTS: Different speech and facial  features were associated with specific NPS. Depression was associated with  spectral and temporal features, anxiety and apathy with frequency, energy,  spectral, and temporal features. Additionally, depression was associated with  facial features (action unit, AU) 10, 12, 15, 17, 25, anxiety with AU 10, 15, 17,  25, 26, 45, and apathy with AU 5, 26, 45. Significant differences in speech and  facial features were observed between males and females. Based on machine  learning models, the highest accuracy for detecting depression, anxiety, and  apathy reached 95.8%, 96.1%, and 83.3% for males, and 87.8%, 88.2%, and 88.6% for  females, respectively. CONCLUSION: Depression, anxiety, and apathy were  characterized by distinct speech and facial features. The machine learning model  developed in this study demonstrated good classification in detecting depression,  anxiety, and apathy. A combination of audio and video may provide objective  methods for the precise classification of these symptoms.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1080/13607863.2023.2280913
+VL  - 28
+IS  - 5
+SP  - 828
+EP  - 837
+J2  - Aging Ment Health
+LA  - eng
+SN  - 1364-6915 1360-7863
+AN  - rayyan-496950021
+Y2  - 0005/01/01/
+L1  - https://www.tandfonline.com/doi/pdf/10.1080/13607863.2023.2280913
+KW  - Humans
+KW  - machine learning
+KW  - Machine Learning
+KW  - Female
+KW  - Male
+KW  - Aged
+KW  - Cross-Sectional Studies
+KW  - Aged, 80 and over
+KW  - *Speech
+KW  - *Depression/diagnosis
+KW  - *Facial Expression
+KW  - *Cognitive Dysfunction/diagnosis
+KW  - speech analysis
+KW  - mild cognitive impairment
+KW  - *Anxiety/diagnosis
+KW  - Apathy/physiology
+KW  - facial analysis
+KW  - Neuropsychiatric symptoms
+ER  - 
+
+TY  - JOUR
+TI  - Multimodal affect analysis of psychodynamic play therapy.
+AU  - Halfon, Sibel
+AU  - Doyran, Metehan
+AU  - Türkmen, Batıkan
+AU  - Oktay, Eda Aydın
+AU  - Salah, Ali Albert
+T2  - Psychotherapy research : journal of the Society for Psychotherapy Research
+AB  - Objective: We explore state of the art machine learning based tools for automatic facial and linguistic affect analysis to allow easier, faster, and more precise  quantification and annotation of children's verbal and non-verbal affective  expressions in psychodynamic child psychotherapy. Method: The sample included 53  Turkish children: 41 with internalizing, externalizing and comorbid problems; 12  in the non-clinical range. We collected audio and video recordings of 148  sessions, which were manually transcribed. Independent raters coded children's  expressions of pleasure, anger, sadness and anxiety using the Children's Play  Therapy Instrument (CPTI). Automatic facial and linguistic affect analysis  modalities were adapted, developed, and combined in a system that predicts  affect. Statistical regression methods (linear and polynomial regression) and  machine learning techniques (deep learning, support vector regression and extreme  learning machine) were used for predicting CPTI affect dimensions. Results:  Experimental results show significant associations between automated affect  predictions and CPTI affect dimensions with small to medium effect sizes. Fusion  of facial and linguistic features work best for pleasure predictions; however,  for other affect predictions linguistic analyses outperform facial analyses.  External validity analyses partially support anger and pleasure predictions.  Discussion: The system enables retrieving affective expressions of children, but  needs improvement for precision.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1080/10503307.2020.1839141
+VL  - 31
+IS  - 3
+SP  - 402
+EP  - 417
+J2  - Psychother Res
+LA  - eng
+SN  - 1468-4381 1050-3307
+AN  - rayyan-496950050
+Y2  - 0003/01/01/
+L1  - https://www.tandfonline.com/doi/pdf/10.1080/10503307.2020.1839141
+KW  - Humans
+KW  - Anxiety
+KW  - Affect
+KW  - Child
+KW  - face analysis
+KW  - *Play Therapy
+KW  - *Psychotherapy, Psychodynamic
+KW  - multimodal affect analysis
+KW  - psychodynamic play therapy
+KW  - text analysis
+ER  - 
+
+TY  - JOUR
+TI  - DPD (DePression Detection) Net: a deep neural network for multimodal depression detection.
+AU  - He, Manlu
+AU  - Bakker, Erwin M.
+AU  - Lew, Michael S.
+T2  - Health information science and systems
+AB  - Depression is one of the most prevalent mental conditions which could impair people's productivity and lead to severe consequences. The diagnosis of this  disease is complex as it often relies on a physician's subjective interview-based  screening. The aim of our work is to propose deep learning models for automatic  depression detection by using different data modalities, which could assist in  the diagnosis of depression. Current works on automatic depression detection  mostly are tested on a single dataset, which might lack robustness, flexibility  and scalability. To alleviate this problem, we design a novel Graph Neural  Network-enhanced Transformer model named DePressionDetect Net (DPD Net) that  leverages textual, audio and visual features and can work under two different  application settings: the clinical setting and the social media setting. The  model consists of a unimodal encoder module for encoding single modality, a  multimodal encoder module for integrating the multimodal information, and a  detection module for producing the final prediction. We also propose a model  named DePressionDetect-with-EEG Net (DPD-E Net) to incorporate  Electroencephalography (EEG) signals and speech data for depression detection.  Experiments across four benchmark datasets show that DPD Net and DPD-E Net can  outperform the state-of-the-art models on three datasets (i.e., E-DAIC dataset,  Twitter depression dataset and MODMA dataset), and achieve competitive  performance on the fourth one (i.e., D-vlog dataset). Ablation studies  demonstrate the advantages of the proposed modules and the effectiveness of  combining diverse modalities for automatic depression detection.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1007/s13755-024-00311-9
+VL  - 12
+IS  - 1
+SP  - 53
+J2  - Health Inf Sci Syst
+LA  - eng
+SN  - 2047-2501
+AN  - rayyan-496950287
+Y2  - 0012/01/01/
+KW  - Depression detection
+KW  - Transformers
+KW  - Multimodal data
+KW  - Graph neural networks
+KW  - Deep neural network
+KW  - Ensemble model
+ER  - 
+
+TY  - JOUR
+TI  - Digital detection of Alzheimer's disease using smiles and conversations with a chatbot.
+AU  - Takeshige-Amano, Haruka
+AU  - Oyama, Genko
+AU  - Ogawa, Mayuko
+AU  - Fusegi, Keiko
+AU  - Kambe, Taiki
+AU  - Shiina, Kenta
+AU  - Ueno, Shin-Ichi
+AU  - Okuzumi, Ayami
+AU  - Hatano, Taku
+AU  - Motoi, Yumiko
+AU  - Kawakami, Ito
+AU  - Ando, Maya
+AU  - Nakayama, Sachiko
+AU  - Ishida, Yoshinori
+AU  - Maei, Shun
+AU  - Lu, Xiangxun
+AU  - Kobayashi, Tomohisa
+AU  - Wooden, Rina
+AU  - Ota, Susumu
+AU  - Morito, Ken
+AU  - Ito, Yoshitaka
+AU  - Nakajima, Yoshihiro
+AU  - Yoritaka, Asako
+AU  - Kato, Tadafumi
+AU  - Hattori, Nobutaka
+T2  - Scientific reports
+AB  - In super-aged societies, dementia has become a critical issue, underscoring the urgent need for tools to assess cognitive status effectively in various sectors,  including financial and business settings. Facial and speech features have been  tried as cost-effective biomarkers of dementia including Alzheimer's disease  (AD). We aimed to establish an easy, automatic, and extensive screening tool for  AD using a chatbot and artificial intelligence. Smile images and visual and  auditory data of natural conversations with a chatbot from 99 healthy controls  (HCs) and 93 individuals with AD or mild cognitive impairment due to AD (PwA)  were analyzed using machine learning. A subset of 8 facial and 21 sound features  successfully distinguished PwA from HCs, with a high area under the receiver  operating characteristic curve of 0.94 ± 0.05. Another subset of 8 facial and 20  sound features predicted the cognitive test scores, with a mean absolute error as  low as 5.78 ± 0.08. These results were superior to those obtained from face or  auditory data alone or from conventional image depiction tasks. Thus, by  combining spontaneous sound and facial data obtained through conversations with a  chatbot, the proposed model can be put to practical use in real-life scenarios.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1038/s41598-024-77220-0
+VL  - 14
+IS  - 1
+SP  - 26309
+J2  - Sci Rep
+LA  - eng
+SN  - 2045-2322
+AN  - rayyan-496950317
+Y2  - 0011/01/01/
+L1  - https://www.nature.com/articles/s41598-024-77220-0.pdf
+KW  - Humans
+KW  - Machine Learning
+KW  - Case-Control Studies
+KW  - Female
+KW  - Male
+KW  - Middle Aged
+KW  - Aged
+KW  - Aged, 80 and over
+KW  - *Alzheimer Disease/diagnosis
+KW  - ROC Curve
+KW  - Cognitive Dysfunction/diagnosis
+KW  - *Smiling
+ER  - 
+
+TY  - JOUR
+TI  - End-to-end multimodal system for depression detection from online recordings.
+AU  - Kowalewski, Mateusz
+AU  - Stroinski, Maciej
+AU  - Kwarciak, Kamil
+AU  - Laptiev, Volodymyr
+AU  - Hemmerling, Daria
+T2  - Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International  Conference
+AB  - Depression is one of the most occurring civilizational diseases. In this paper, we propose a new approach for detecting depression through the analysis of social  media content using face analysis, emotion recognition neural networks, and  speech processing. We utilized audio-visual analysis and acquired more than 605  features in the time domain. Those are fed to machine learning and deep learning  models for depression classification. Our approach outperforms the other  state-of-the-art models, achieving the F1-score 0.77. The results have the  potential to provide valuable insights for mental health professionals, offer  early detection and intervention, and serve as a resource for individuals seeking  help with their mental health. This study enables real-time analysis and  represents a significant advancement in mental health and technology and has the  potential to impact society.Clinical relevance-The system aims to provide a fast  and accurate way to detect depression in individuals through online recordings.  The use of multimodal information (e.g. audio, image) enhances the performance of  the non-verbal behavioral analysis. The end-to-end system reduces the need for  manual analysis by mental health professionals and increases the efficiency of  depression screening. The system can potentially help identify individuals who  are at risk for depression, enabling early intervention and treatment. The  results from the system can complement traditional assessments and support mental  health professionals in making a diagnosis. The system can be used in real-time  processing, f.e. during online calls, and provide objective measurements  summarizing the overall behavior based on computer vision and audio analysis.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/EMBC40787.2023.10340782
+VL  - 2023
+SP  - 1
+EP  - 4
+J2  - Annu Int Conf IEEE Eng Med Biol Soc
+LA  - eng
+SN  - 2694-0604 2375-7477
+AN  - rayyan-496950348
+Y2  - 0007/01/01/
+KW  - Humans
+KW  - Mental Health
+KW  - Machine Learning
+KW  - Neural Networks, Computer
+KW  - *Depression/diagnosis
+KW  - *Emotions
+ER  - 
+
+TY  - JOUR
+TI  - Multimodal Sensing for Depression Risk Detection: Integrating Audio, Video, and Text Data.
+AU  - Zhang, Zhenwei
+AU  - Zhang, Shengming
+AU  - Ni, Dong
+AU  - Wei, Zhaoguo
+AU  - Yang, Kongjun
+AU  - Jin, Shan
+AU  - Huang, Gan
+AU  - Liang, Zhen
+AU  - Zhang, Li
+AU  - Li, Linling
+AU  - Ding, Huijun
+AU  - Zhang, Zhiguo
+AU  - Wang, Jianhong
+T2  - Sensors (Basel, Switzerland)
+AB  - Depression is a major psychological disorder with a growing impact worldwide. Traditional methods for detecting the risk of depression, predominantly reliant  on psychiatric evaluations and self-assessment questionnaires, are often  criticized for their inefficiency and lack of objectivity. Advancements in deep  learning have paved the way for innovations in depression risk detection methods  that fuse multimodal data. This paper introduces a novel framework, the Audio,  Video, and Text Fusion-Three Branch Network (AVTF-TBN), designed to amalgamate  auditory, visual, and textual cues for a comprehensive analysis of depression  risk. Our approach encompasses three dedicated branches-Audio Branch, Video  Branch, and Text Branch-each responsible for extracting salient features from the  corresponding modality. These features are subsequently fused through a  multimodal fusion (MMF) module, yielding a robust feature vector that feeds into  a predictive modeling layer. To further our research, we devised an emotion  elicitation paradigm based on two distinct tasks-reading and  interviewing-implemented to gather a rich, sensor-based depression risk detection  dataset. The sensory equipment, such as cameras, captures subtle facial  expressions and vocal characteristics essential for our analysis. The research  thoroughly investigates the data generated by varying emotional stimuli and  evaluates the contribution of different tasks to emotion evocation. During the  experiment, the AVTF-TBN model has the best performance when the data from the  two tasks are simultaneously used for detection, where the F1 Score is 0.78,  Precision is 0.76, and Recall is 0.81. Our experimental results confirm the  validity of the paradigm and demonstrate the efficacy of the AVTF-TBN model in  detecting depression risk, showcasing the crucial role of sensor-based data in  mental health detection.
+DA  - 2024///
+PY  - 2024
+DO  - 10.3390/s24123714
+VL  - 24
+IS  - 12
+J2  - Sensors (Basel)
+LA  - eng
+SN  - 1424-8220
+AN  - rayyan-496950688
+Y2  - 0006/01/01/
+L1  - https://www.mdpi.com/1424-8220/24/12/3714/pdf?version=1719312954
+KW  - Humans
+KW  - Adult
+KW  - Emotions
+KW  - Facial Expression
+KW  - Female
+KW  - Male
+KW  - Middle Aged
+KW  - Young Adult
+KW  - Risk Factors
+KW  - *Depression/diagnosis
+KW  - Video Recording
+KW  - Datasets as Topic
+KW  - multimodal data
+KW  - *Multimodal Imaging/instrumentation/methods
+KW  - depression risk detection
+KW  - emotion elicitation paradigm
+KW  - Sound Recordings
+KW  - Text Messaging
+ER  - 
+
+TY  - JOUR
+TI  - Acoustic and Facial Features From Clinical Interviews for Machine Learning-Based Psychiatric Diagnosis: Algorithm Development.
+AU  - Birnbaum, Michael L.
+AU  - Abrami, Avner
+AU  - Heisig, Stephen
+AU  - Ali, Asra
+AU  - Arenare, Elizabeth
+AU  - Agurto, Carla
+AU  - Lu, Nathaniel
+AU  - Kane, John M.
+AU  - Cecchi, Guillermo
+T2  - JMIR mental health
+AB  - BACKGROUND: In contrast to all other areas of medicine, psychiatry is still nearly entirely reliant on subjective assessments such as patient self-report and  clinical observation. The lack of objective information on which to base clinical  decisions can contribute to reduced quality of care. Behavioral health clinicians  need objective and reliable patient data to support effective targeted  interventions. OBJECTIVE: We aimed to investigate whether reliable  inferences-psychiatric signs, symptoms, and diagnoses-can be extracted from  audiovisual patterns in recorded evaluation interviews of participants with  schizophrenia spectrum disorders and bipolar disorder. METHODS: We obtained  audiovisual data from 89 participants (mean age 25.3 years; male: 48/89, 53.9%;  female: 41/89, 46.1%): individuals with schizophrenia spectrum disorders (n=41),  individuals with bipolar disorder (n=21), and healthy volunteers (n=27). We  developed machine learning models based on acoustic and facial movement features  extracted from participant interviews to predict diagnoses and detect  clinician-coded neuropsychiatric symptoms, and we assessed model performance  using area under the receiver operating characteristic curve (AUROC) in 5-fold  cross-validation. RESULTS: The model successfully differentiated between  schizophrenia spectrum disorders and bipolar disorder (AUROC 0.73) when  aggregating face and voice features. Facial action units including cheek-raising  muscle (AUROC 0.64) and chin-raising muscle (AUROC 0.74) provided the strongest  signal for men. Vocal features, such as energy in the frequency band 1 to 4 kHz  (AUROC 0.80) and spectral harmonicity (AUROC 0.78), provided the strongest signal  for women. Lip corner-pulling muscle signal discriminated between diagnoses for  both men (AUROC 0.61) and women (AUROC 0.62). Several psychiatric signs and  symptoms were successfully inferred: blunted affect (AUROC 0.81), avolition  (AUROC 0.72), lack of vocal inflection (AUROC 0.71), asociality (AUROC 0.63), and  worthlessness (AUROC 0.61). CONCLUSIONS: This study represents advancement in  efforts to capitalize on digital data to improve diagnostic assessment and  supports the development of a new generation of innovative clinical tools by  employing acoustic and facial data analysis.
+DA  - 2022///
+PY  - 2022
+DO  - 10.2196/24699
+VL  - 9
+IS  - 1
+SP  - e24699
+J2  - JMIR Ment Health
+LA  - eng
+SN  - 2368-7959
+AN  - rayyan-496950722
+Y2  - 0001/01/01/
+L1  - https://mental.jmir.org/2022/1/e24699/PDF
+KW  - machine learning
+KW  - speech
+KW  - bipolar disorder
+KW  - schizophrenia
+KW  - psychiatry
+KW  - audiovisual
+KW  - speech analysis
+KW  - facial analysis
+KW  - audiovisual patterns
+KW  - diagnostic prediction
+KW  - schizophrenia spectrum disorders
+KW  - spectrum disorders
+KW  - symptom prediction
+ER  - 
+
+TY  - JOUR
+TI  - Using Convolutional Neural Networks for the Assessment Research of Mental Health.
+AU  - Liu, Yanbing
+T2  - Computational intelligence and neuroscience
+AB  - Existing mental health assessment methods mainly rely on experts' experience, which has subjective bias, so convolutional neural networks are applied to mental  health assessment to achieve the fusion of face, voice, and gait. Among them, the  OpenPose algorithm is used to extract facial and posture features; openSMILE is  used to extract voice features; and attention mechanism is introduced to  reasonably allocate the weight values of different modal features. As can be  seen, the effective identification and evaluation of 10 indicators such as mental  health somatization, depression, and anxiety are realized. Simulation results  show that the proposed method can accurately assess mental health. Here, the  overall recognition accuracy can reach 77.20%, and the F1 value can reach 0.77.  Compared with the recognition methods based on face single-mode fusion,  face + voice dual-mode fusion, and face + voice + gait multimodal fusion, the  recognition accuracy and F1 value of proposed method are improved to varying  degrees, and the recognition effect is better, which has certain practical  application value.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1155/2022/1636855
+VL  - 2022
+SP  - 1636855
+J2  - Comput Intell Neurosci
+LA  - eng
+SN  - 1687-5273 1687-5265
+AN  - rayyan-496950726
+KW  - Algorithms
+KW  - Face
+KW  - *Mental Health
+KW  - *Neural Networks, Computer
+KW  - Gait
+ER  - 
+
+TY  - JOUR
+TI  - Predicting depression by using a novel deep learning model and video-audio-text multimodal data.
+AU  - Li, Yifu
+AU  - Yang, Xueping
+AU  - Zhao, Meng
+AU  - Wang, Jiangtao
+AU  - Yao, Yudong
+AU  - Qian, Wei
+AU  - Qi, Shouliang
+T2  - Frontiers in psychiatry
+AB  - OBJECTIVE: Depression is a prevalent mental health disorder affecting millions of people. Traditional diagnostic methods primarily rely on self-reported  questionnaires and clinical interviews, which can be subjective and vary  significantly between individuals. This paper introduces the Integrative  Multimodal Depression Detection Network (IMDD-Net), a novel deep-learning  framework designed to enhance the accuracy of depression evaluation by leveraging  both local and global features from video, audio, and text cues. METHODS: The  IMDD-Net integrates these multimodal data streams using the Kronecker product for  multimodal fusion, facilitating deep interactions between modalities. Within the  audio modality, Mel Frequency Cepstrum Coefficient (MFCC) and extended Geneva  Minimalistic Acoustic Parameter Set (eGeMAPS) features capture local and global  acoustic properties, respectively. For video data, the TimeSformer network  extracts both fine-grained and broad temporal features, while the text modality  utilizes a pre-trained BERT model to obtain comprehensive contextual information.  The IMDD-Net's architecture effectively combines these diverse data types to  provide a holistic analysis of depressive symptoms. RESULTS: Experimental results  on the AVEC 2014 dataset demonstrate that the IMDD-Net achieves state-of-the-art  performance in predicting Beck Depression Inventory-II (BDI-II) scores, with a  Root Mean Square Error (RMSE) of 7.55 and a Mean Absolute Error (MAE) of 5.75. A  classification to identify potential depression subjects can achieve an accuracy  of 0.79. CONCLUSION: These results underscore the robustness and precision of the  IMDD-Net, highlighting the importance of integrating local and global features  across multiple modalities for accurate depression prediction.
+DA  - 2025///
+PY  - 2025
+DO  - 10.3389/fpsyt.2025.1602650
+VL  - 16
+SP  - 1602650
+J2  - Front Psychiatry
+LA  - eng
+SN  - 1664-0640
+AN  - rayyan-496950750
+L1  - https://www.frontiersin.org/articles/10.3389/fpsyt.2025.1602650/pdf
+KW  - deep learning
+KW  - depression
+KW  - information fusion
+KW  - local and global features
+KW  - multimedia
+ER  - 
+
+TY  - JOUR
+TI  - TSFFM: Depression detection based on latent association of facial and body expressions.
+AU  - Li, Xingyun
+AU  - Yi, Xinyu
+AU  - Lu, Lin
+AU  - Wang, Hao
+AU  - Zheng, Yunshao
+AU  - Han, Mengmeng
+AU  - Wang, Qingxiang
+T2  - Computers in biology and medicine
+AB  - Depression is a prevalent mental disorder worldwide. Early screening and treatment are crucial in preventing the progression of the illness. Existing  emotion-based depression recognition methods primarily rely on facial  expressions, while body expressions as a means of emotional expression have been  overlooked. To aid in the identification of depression, we recruited 156  participants for an emotional stimulation experiment, gathering data on facial  and body expressions. Our analysis revealed notable distinctions in facial and  body expressions between the case group and the control group and a synergistic  relationship between these variables. Hence, we propose a two-stream feature  fusion model (TSFFM) that integrates facial and body features. The central  component of TSFFM is the Fusion and Extraction (FE) module. In contrast to  conventional methods such as feature concatenation and decision fusion, our  approach, FE, places a greater emphasis on in-depth analysis during the feature  extraction and fusion processes. Firstly, within FE, we carry out local  enhancement of facial and body features, employing an embedded attention  mechanism, eliminating the need for original image segmentation and the use of  multiple feature extractors. Secondly, FE conducts the extraction of temporal  features to better capture the dynamic aspects of expression patterns. Finally,  we retain and fuse informative data from different temporal and spatial features  to support the ultimate decision. TSFFM achieves an Accuracy and F1-score of  0.896 and 0.896 on the depression emotional stimulus dataset, respectively. On  the AVEC2014 dataset, TSFFM achieves MAE and RMSE values of 5.749 and 7.909,  respectively. Furthermore, TSFFM has undergone testing on additional public  datasets to showcase the effectiveness of the FE module.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.compbiomed.2023.107805
+VL  - 168
+SP  - 107805
+J2  - Comput Biol Med
+LA  - eng
+SN  - 1879-0534 0010-4825
+AN  - rayyan-496950773
+Y2  - 0001/01/01/
+KW  - Humans
+KW  - Depression detection
+KW  - Sentiment analysis
+KW  - Face
+KW  - Facial Expression
+KW  - Feature fusion
+KW  - Emotions/physiology
+KW  - *Depression/psychology
+KW  - *Rivers
+KW  - FE
+KW  - TSFFM
+ER  - 
+
+TY  - JOUR
+TI  - Multimodal Depression Recognition via Mutual Information Maximization Joint With Multi-Task Learning.
+AU  - Liu, Yanjie
+AU  - Liu, Yulan
+AU  - Ma, Xinran
+AU  - Wang, Rui
+AU  - Yang, Qin
+AU  - Mo, Yijun
+AU  - Alqahtani, Salman A.
+AU  - Chen, Min
+T2  - IEEE transactions on bio-medical engineering
+AB  - Depression is a serious mental health disorder with a potential hazard for individuals and society characterized by persistent sadness and hopelessness.  Multimodal information including vision, audio, and text is critical for  depression diagnosis and treatment. Most studies focus on designing sophisticated  feature extraction methods but ignore feature enhancement and fusion within  intra-modality and cross-modality. In this paper, a Chinese Multimodal Depression  Corpus (CMD-Corpus) dataset is established assisted by clinical experts aiming to  support more depression research. Furthermore, we propose a multimodal depression  recognition framework based on Mutual Information Maximization with Multi-task  Learning (MIMML) to enhance feature representation and fusion among video, audio,  and text modalities. The MIMML employs the strategy of maximizing mutual  information to accelerate modality-invariance enhancement. The multi-task is used  to improve the representation performance of the single modality to improve  modality-specific enhancement. Meanwhile, a gated structure with bidirectional  gated recurrent units and convolutional neural networks is designed to achieve  multimodal feature fusion, which is key to boosting completeness among  modalities. Experimental results show that the proposed MIMML effectively  captures representation to increase depression recognition accuracy, achieving  84% and 89% accuracy on DAIC-WOZ and our self-collected CMD-Corpus dataset  respectively.
+DA  - 2026///
+PY  - 2026
+DO  - 10.1109/TBME.2025.3582806
+VL  - 73
+IS  - 1
+SP  - 369
+EP  - 379
+J2  - IEEE Trans Biomed Eng
+LA  - eng
+SN  - 1558-2531 0018-9294
+AN  - rayyan-496950808
+Y2  - 0001/01/01/
+KW  - Algorithms
+KW  - Humans
+KW  - Databases, Factual
+KW  - Neural Networks, Computer
+KW  - *Machine Learning
+KW  - *Depression/diagnosis/classification
+ER  - 
+
+TY  - JOUR
+TI  - Self-Esteem Assessment Based on Self-Introduction: A Multimodal Approach to Personality Computing.
+AU  - Zang, Xinlei
+AU  - Yang, Juan
+T2  - Assessment
+AB  - The present study aimed to develop and validate a multimodal self-esteem recognition method based on a self-introduction task, with the goal of achieving  automated self-esteem evaluation. We recruited two independent samples of  undergraduate students (N = 211 and N = 63) and collected 40-second  self-introduction videos along with Rosenberg Self-Esteem Scale (RSES) scores.  Features were extracted from three modalities-visual, audio, and text-and  three-class models were trained using the dataset of 211 participants. Results  indicated that the late-fusion multimodal model achieved the highest performance  (Accuracy, ACC = 0.447 ± 0.019; Macro-averaged F1, Macro-F1 = 0.438 ± 0.020) and  further demonstrated cross-sample generalizability when validated on the  independent sample of 63 participants (ACC = 0.381, Macro-F1 = 0.379).  Reliability testing showed good interrater consistency (Fleiss' κ = 0.723,  Intraclass Correlation Coefficient, ICC = 0.745). Criterion-related validity  analyses indicated that the proposed method was significantly correlated with  life satisfaction, subjective happiness, positive and negative affect,  depression, anxiety, stress, relational self-esteem, and collective self-esteem.  Moreover, incremental validity analyses indicated that the multimodal model  provided additional predictive value for positive affect beyond the RSES. Taken  together, these findings provide preliminary evidence that multimodal behavioral  features can assist in achieving automated self-esteem evaluation, offering a  feasible, low-burden complement to traditional self-report.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1177/10731911251403907
+SP  - 10731911251403907
+J2  - Assessment
+LA  - eng
+SN  - 1552-3489 1073-1911
+AN  - rayyan-496950906
+Y2  - 0012/01/01/
+KW  - machine learning
+KW  - multimodal fusion
+KW  - personality computing
+KW  - self-esteem assessment
+ER  - 
+
+TY  - JOUR
+TI  - Towards the automatic detection of social biomarkers in autism spectrum disorder: introducing the simulated interaction task (SIT).
+AU  - Drimalla, Hanna
+AU  - Scheffer, Tobias
+AU  - Landwehr, Niels
+AU  - Baskow, Irina
+AU  - Roepke, Stefan
+AU  - Behnia, Behnoush
+AU  - Dziobek, Isabel
+T2  - NPJ digital medicine
+AB  - Social interaction deficits are evident in many psychiatric conditions and specifically in autism spectrum disorder (ASD), but hard to assess objectively.  We present a digital tool to automatically quantify biomarkers of social  interaction deficits: the simulated interaction task (SIT), which entails a  standardized 7-min simulated dialog via video and the automated analysis of  facial expressions, gaze behavior, and voice characteristics. In a study with 37  adults with ASD without intellectual disability and 43 healthy controls, we show  the potential of the tool as a diagnostic instrument and for better description  of ASD-associated social phenotypes. Using machine-learning tools, we detected  individuals with ASD with an accuracy of 73%, sensitivity of 67%, and specificity  of 79%, based on their facial expressions and vocal characteristics alone.  Especially reduced social smiling and facial mimicry as well as a higher voice  fundamental frequency and harmony-to-noise-ratio were characteristic for  individuals with ASD. The time-effective and cost-effective computer-based  analysis outperformed a majority vote and performed equal to clinical expert  ratings.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1038/s41746-020-0227-5
+VL  - 3
+SP  - 25
+J2  - NPJ Digit Med
+LA  - eng
+SN  - 2398-6352
+AN  - rayyan-496951098
+L1  - https://www.nature.com/articles/s41746-020-0227-5.pdf
+KW  - Signs and symptoms
+KW  - Autism spectrum disorders
+KW  - Diagnosis
+ER  - 
+
+TY  - CONF
+TI  - MDD-Net: Multimodal Depression Detection through Mutual Transformer
+AU  - M. R. Haque
+AU  - M. M. Islam
+AU  - S. M. Taslim Uddin Raju
+AU  - H. Altaheri
+AU  - L. Nassar
+AU  - F. Karray
+T2  - 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+AB  - Depression is a major mental health condition that severely impacts the emotional and physical well-being of individuals. The simple nature of data collection from social media platforms has attracted significant interest in properly utilizing this information for mental health research. A Multimodal Depression Detection Network (MDD-Net), utilizing acoustic and visual data obtained from social media networks, is proposed in this work where mutual transformers are exploited to efficiently extract and fuse multimodal features for efficient depression detection. The MDD-Net consists of four core modules: an acoustic feature extraction module for retrieving relevant acoustic attributes, a visual feature extraction module for extracting significant high-level patterns, a mutual transformer for computing the correlations among the generated features and fusing these features from multiple modalities, and a detection layer for detecting depression using the fused feature representations. The extensive experiments are performed using the multimodal D-Vlog dataset, and the findings reveal that the developed multimodal depression detection network surpasses the state-of-the-art by up to 17.37% for F1-Score, demonstrating the greater performance of the proposed system. The source code is accessible at https://github.com/rezwanh001/Multimodal-Depression-Detection.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/SMC58881.2025.11342588
+SP  - 6592
+EP  - 6599
+AN  - rayyan-496951357
+Y2  - 0010/01/01/
+KW  - Depression
+KW  - Acoustics
+KW  - Feature extraction
+KW  - Correlation
+KW  - Mental health
+KW  - Transformers
+KW  - Visualization
+KW  - Social networking (online)
+KW  - Feature Fusion
+KW  - Multimodal Depression Detection
+KW  - Mutual Transformer
+KW  - Source coding
+KW  - Transformer cores
+KW  - Vlog Data
+ER  - 
+
+TY  - JOUR
+TI  - Deep Multi-Modal Network Based Automated Depression Severity Estimation
+AU  - M. A. Uddin
+AU  - J. B. Joolee
+AU  - K. -A. Sohn
+T2  - IEEE Transactions on Affective Computing
+AB  - Depression is a severe mental illness that impairs a person's capacity to function normally in personal and professional life. The assessment of depression usually requires a comprehensive examination by an expert professional. Recently, machine learning-based automatic depression assessment has received considerable attention for a reliable and efficient depression diagnosis. Various techniques for automated depression detection were developed; however, certain concerns still need to be investigated. In this work, we propose a novel deep multi-modal framework that effectively utilizes facial and verbal cues for an automated depression assessment. Specifically, we first partition the audio and video data into fixed-length segments. Then, these segments are fed into the Spatio-Temporal Networks as input, which captures both spatial and temporal features as well as assigns higher weights to the features that contribute most. In addition, Volume Local Directional Structural Pattern (VLDSP) based dynamic feature descriptor is introduced to extract the facial dynamics by encoding the structural aspects. Afterwards, we employ the Temporal Attentive Pooling (TAP) approach to summarize the segment-level features for audio and video data. Finally, the multi-modal factorized bilinear pooling (MFB) strategy is applied to fuse the multi-modal features effectively. An extensive experimental study reveals that the proposed method outperforms state-of-the-art approaches.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/TAFFC.2022.3179478
+VL  - 14
+IS  - 3
+SP  - 2153
+EP  - 2167
+J2  - IEEE Transactions on Affective Computing
+SN  - 1949-3045
+AN  - rayyan-496951371
+Y2  - 0007/01/01/
+KW  - Depression
+KW  - Feature extraction
+KW  - Encoding
+KW  - Optical flow
+KW  - Convolutional neural networks
+KW  - Three-dimensional displays
+KW  - Long short term memory
+KW  - multi-modal factorized bilinear pooling
+KW  - spatio-temporal networks
+KW  - temporal attentive pooling
+KW  - volume local directional structural pattern
+ER  - 
+
+TY  - CONF
+TI  - Multi-modal Human Behaviour Graph Representation Learning for Automatic Depression Assessment
+AU  - H. Shen
+AU  - S. Song
+AU  - H. Gunes
+T2  - 2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG)
+AB  - Automatic depression assessment (ADA) often relies on crucial cues embedded in human verbal and non-verbal behaviors, which exists in video, audio, and text modalities. Although these modalities often show in time-series forms, current research offers limited exploration of the complex intra-modal temporal dynamics inherent to each modality, failing to extract the depression-related cues in a global view. While many methodologies attempt to exploit the multifaceted information encoded across modalities via decision-level or feature-level fusion techniques, they often fall short in effectively representing pairwise inter-modal relationships, which is the key to utilize the distinct complementary relationship between each modality pair. This paper presents a novel graph-based multimodal fusion approach, which can model intra-modal and inter-modal dynamics conveniently using a graph representation. It adopts undirected edges to link not only temporally continuous, pre-extracted features of each modality, but also temporally aligned features across each pair of modalities. This ensures the seamless propagation of global information across temporal dimensions and helps capture the pairwise inter-modal dynamics. We conduct experiments on the E-DAIC dataset to prove our approach's effectiveness, with an RMSE of 4.80 and a CCC value of 0.563, which rival the top-performing method. We also experiment on the AFAR-BSFP dataset to show the generality of our approach. Our code will be made publicly available.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/FG59268.2024.10581964
+SP  - 1
+EP  - 10
+SN  - 2770-8330
+AN  - rayyan-496951390
+Y2  - 0005/01/01/
+L1  - https://www.repository.cam.ac.uk/bitstreams/b318b379-7f1e-47ac-a6c9-a0d7f65ddb4b/download
+KW  - Depression
+KW  - Feature extraction
+KW  - Face recognition
+KW  - Representation learning
+KW  - Gesture recognition
+KW  - Behavioral sciences
+KW  - Codes
+ER  - 
+
+TY  - JOUR
+TI  - Multimodal Spatiotemporal Representation for Automatic Depression Level Detection
+AU  - M. Niu
+AU  - J. Tao
+AU  - B. Liu
+AU  - J. Huang
+AU  - Z. Lian
+T2  - IEEE Transactions on Affective Computing
+AB  - Physiological studies have shown that there are some differences in speech and facial activities between depressive and healthy individuals. Based on this fact, we propose a novel spatio-temporal attention (STA) network and a multimodal attention feature fusion (MAFF) strategy to obtain the multimodal representation of depression cues for predicting the individual depression level. Specifically, we first divide the speech amplitude spectrum/video into fixed-length segments and input these segments into the STA network, which not only integrates the spatial and temporal information through attention mechanism, but also emphasizes the audio/video frames related to depression detection. The audio/video segment-level feature is obtained from the output of the last full connection layer of the STA network. Second, this article employs the eigen evolution pooling method to summarize the changes of each dimension of the audio/video segment-level features to aggregate them into the audio/video level feature. Third, the multimodal representation with modal complementary information is generated using the MAFF and inputs into the support vector regression predictor for estimating depression severity. Experimental results on the AVEC2013 and AVEC2014 depression databases illustrate the effectiveness of our method.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/TAFFC.2020.3031345
+VL  - 14
+IS  - 1
+SP  - 294
+EP  - 307
+J2  - IEEE Transactions on Affective Computing
+SN  - 1949-3045
+AN  - rayyan-496951391
+Y2  - 0001/01/01/
+KW  - Depression
+KW  - Databases
+KW  - Feature extraction
+KW  - Multimodal depression detection
+KW  - Three-dimensional displays
+KW  - Spatiotemporal phenomena
+KW  - spatio-temporal attention
+KW  - Image segmentation
+KW  - audio/video level feature
+KW  - audio/video segment-level feature
+KW  - eigen evolution pooling
+KW  - multimodal attention feature fusion
+KW  - Two dimensional displays
+ER  - 
+
+TY  - JOUR
+TI  - Audio-Visual Feature Disentanglement and Fusion Network for Automatic Depression Severity Prediction
+AU  - S. Li
+AU  - Z. Shao
+AU  - R. Qin
+AU  - Y. Huang
+AU  - P. Liang
+AU  - X. Li
+AU  - Y. Jiang
+AU  - Y. Deng
+AU  - T. Liu
+AU  - X. Tan
+T2  - IEEE Transactions on Affective Computing
+AB  - In order to achieve early screening and assist clinical decision-making, automatic depression assessment based on multimodal data are highly anticipated. However, the existed methods often suffer from semantic gap and information redundancy due to heterogeneity among modalities. To address this challenge, this paper investigates a novel Feature Disentanglement and Fusion Network (FDFNet) for predicting depression severity from audio-visual cues. Firstly, we design the shared and private encoders to disentangle modality-shared and modality-private representations. The former representation that acquires joint information is subjected by similarity constraints between modalities to ensure their distributions as close as possible. The latter that can capture unique features of each modality is restrained by independence constraints for keeping their distributions distinct. The decoder is then developed to reconstruct unimodal representation with constraints to minimize information loss. Finally, an efficient fusion strategy through addition and concatenation is ultilized for aggregating information. Experimental results on four benchmark datasets demonstrate that the proposed FDFNet consistently outperforms several state-of-the-art methods, with the competitive MAE/RMSE values of 6.22/7.58 on AVEC2013, 5.21/6.49 on AVEC2014, 4.25/5.34 on DAIC-WOZ, and 4.41/5.10 on E-DAIC, indicating that multimodal deep learning based on audio-visual is an attractive solution for objectively evaluating the depression severity.
+DA  - 2026///
+PY  - 2026
+DO  - 10.1109/TAFFC.2025.3611238
+VL  - 17
+IS  - 1
+SP  - 190
+EP  - 203
+J2  - IEEE Transactions on Affective Computing
+SN  - 1949-3045
+AN  - rayyan-496951448
+Y2  - 0001/01/01/
+KW  - Deep learning
+KW  - Depression
+KW  - Feature extraction
+KW  - Face recognition
+KW  - Transformers
+KW  - Visualization
+KW  - Videos
+KW  - Data mining
+KW  - multimodal fusion
+KW  - Speech recognition
+KW  - Medical diagnostic imaging
+KW  - depression severity prediction
+KW  - feature disentanglement
+ER  - 
+
+TY  - JOUR
+TI  - FC-AEN: Fully Convolutional Adaptive Ensemble Network for Automatic Depression Detection
+AU  - Y. Wang
+AU  - Z. Lin
+AU  - Y. Teng
+AU  - Y. Cheng
+AU  - H. Jiang
+AU  - Y. Yang
+T2  - IEEE Transactions on Computational Social Systems
+AB  - Multimodal automatic depression detection (ADD) has garnered significant research interest due to its potential for providing fast, objective, and reliable assessments. Despite advancements in the field, several challenges persist. First, many existing methods employ fixed-size feature modeling, which fails to adapt to temporal variations in depressive emotional expression, resulting in the loss of critical depressive behavior information. Second, while attention-based detection methods effectively extract features, they incur substantial computational overhead. Finally, multimodal ensemble processes often encounter modality inertia and modality forgetting issues, which compromise model stability and performance. We propose an innovative multimodal ADD network called the fully convolutional adaptive ensemble network (FC-AEN) to address these challenges. This approach comprises three key modules. The first module, deformable patch embedding (DPE), dynamically adjusts the time range of feature segments during training to ensure comprehensive capture of depressive behaviors. The second module, fully convolutional spatiotemporal detector (FCSTD), enhances computational efficiency to manage larger data scales effectively. The third module, adaptive dynamic ensemble (ADE), addresses the multimodal unbalanced ensemble problem through alternating training and gradient adjustment. We conducted experiments on four datasets (AVEC2013, AVEC2014, AVEC2019, and CMDep) and achieved new state-of-the-art (SOTA) performance across three benchmarks. Specifically, on the AVEC2019 dataset, we achieved a mean absolute error (MAE) of 4.91, representing a relative reduction of 14.9%; on the AVEC2013 dataset, we achieved an MAE of 5.11 and a relative reduction of 5.0%; and on the CMDep dataset, we achieved an MAE of 6.04 and a relative reduction of 3.4%.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/TCSS.2025.3602264
+SP  - 1
+EP  - 16
+J2  - IEEE Transactions on Computational Social Systems
+SN  - 2329-924X
+AN  - rayyan-496951454
+KW  - Depression
+KW  - Feature extraction
+KW  - Training
+KW  - Transformers
+KW  - Adaptation models
+KW  - Computer architecture
+KW  - Videos
+KW  - Computational modeling
+KW  - Spatiotemporal phenomena
+KW  - Computational efficiency
+KW  - Automatic depression detection (ADD)
+KW  - full convolution
+KW  - multimodal ensemble
+ER  - 
+
+TY  - JOUR
+TI  - Bi-CFNet: A Multi-Task Audiovisual Framework with Visual Enhancement and Cross-Feedback for Depression Detection
+AU  - S. Chan
+AU  - Y. Zhai
+AU  - Y. Li
+AU  - Y. Wang
+AU  - J. Mao
+T2  - IEEE Transactions on Affective Computing
+AB  - Depressive disorder has evolved into a major public health issue. However, its diagnosis is predominantly based on subjective clinical evaluation, leading to frequent misdiagnosis. Although multimodal methods have demonstrated potential, they still remain limited in their ability to model long-range temporal dependencies, reconcile semantic heterogeneity across modalities (e.g., facial landmarks vs. gaze behavior), and capture deep inter-modal interactions. To address these challenges, we propose a novel multi-task audiovisual network, termed Bi-CFNet, which is built upon a powerful temporal modeling backbone to capture long-range dependencies and integrates visual enhancement and cross-feedback for depression detection. In addition to the primary binary classification task, we establish a multi-task learning framework to predict item-level clinical scores as an auxiliary task. This design provides supplementary supervisory signals, encouraging the model to learn semantically meaningful representations and mitigate the impact of subjective bias. The visual enhancement module (VEM) employs gated attention to integrate gaze vectors with facial features, yielding temporally aligned and semantically enriched visual representations that are more sensitive to depressive indicators. Furthermore, the cross-feedback mechanism (CFM) facilitates the injection of highlevel semantic features from one modality into the early layers of another, thereby integrating global temporal context into local processing and promoting deep cross-modal re-learning. Finally, extensive experiments on the DAIC-WOZ dataset show that our model achieves an F1-score of 0.85 and a recall of 0.87, surpassing several state-of-the-art trimodal baselines. The proposed framework demonstrates the potential of utilizing audiovisual cues for objective depression analysis, providing a technical foundation for future computer-aided clinical screening systems.
+DA  - 2026///
+PY  - 2026
+DO  - 10.1109/TAFFC.2026.3656117
+SP  - 1
+EP  - 12
+J2  - IEEE Transactions on Affective Computing
+SN  - 1949-3045
+AN  - rayyan-496951470
+KW  - Deep learning
+KW  - Depression
+KW  - Depression detection
+KW  - Feature extraction
+KW  - Vectors
+KW  - multimodal learning
+KW  - Visualization
+KW  - Facial expressions
+KW  - Facial features
+KW  - Semantics
+KW  - Brain modeling
+KW  - Multitasking
+KW  - audiovisual fusion
+KW  - cross-feedback mechanism
+KW  - visual enhancement
+ER  - 
+
+TY  - JOUR
+TI  - Parallel Multiscale Bridge Fusion Network for Audio–Visual Automatic Depression Assessment
+AU  - M. Hu
+AU  - L. Liu
+AU  - X. Wang
+AU  - Y. Tang
+AU  - J. Yang
+AU  - N. An
+T2  - IEEE Transactions on Computational Social Systems
+AB  - Depression is a prevalent and severe mental illness that significantly impacts patients’ physical health and daily life. Recent studies have focused on multimodal depression assessment, aiming to objectively and conveniently evaluate depression using multimodal data. However, existing methods based on audio–visual modalities struggle to capture the dynamic variations in depression clues and cannot fully explore multimodal data over a long time. In addition, they rely heavily on insufficient single-stage multimodal fusion, which limits the accuracy of depression assessment. To address these limitations, we propose a novel parallel multiscale bridge fusion network (PMBFN) for audio–visual depression assessment. PMBFN comprehensively captures subtle multilevel dynamic changes in depression expression through parallel multiscale dynamic convolutions and long short-term memories (LSTMs) and effectively solves the problem of long-term audio–visual sequence information loss by using spatiotemporal attention pooling modules. Furthermore, the multimodal bridge fusion module is proposed in PMBFN to achieve multistage interactive recursive multimodal fusion, enhancing the expressive capacity of multimodal depression-related features to improve the accuracy of assessment. Extensive experiments on the DAIC-WOZ and E-DAIC datasets demonstrate that our method outperforms current state-of-the-art methods and clearly shows our method's effectiveness eventually.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/TCSS.2024.3416029
+VL  - 11
+IS  - 5
+SP  - 6830
+EP  - 6842
+J2  - IEEE Transactions on Computational Social Systems
+SN  - 2329-924X
+AN  - rayyan-496951471
+Y2  - 0010/01/01/
+KW  - Depression
+KW  - Feature extraction
+KW  - Visualization
+KW  - Data mining
+KW  - Convolutional neural networks
+KW  - Audio-visual systems
+KW  - Long short term memory
+KW  - Audio–visual features
+KW  - depression assessment, multimodal bridge fusion (MBF)
+KW  - parallel multiscale dynamic convolution
+ER  - 
+
+TY  - CONF
+TI  - A Multi-modal Feature Layer Fusion Model for Assessment of Depression Based on Attention Mechanisms
+AU  - C. Wang
+AU  - D. Liu
+AU  - K. Tao
+AU  - X. Cui
+AU  - G. Wang
+AU  - Y. Zhao
+AU  - Z. Liu
+T2  - 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)
+AB  - Depression is a common psychiatric disorder that can lead to depressed moods and even suicidal behavior. Intelligent assessment of depression from multiple physiological and behavioral data and breaking the limitations of traditional methods is the focus of this research area. In this paper, a multi-modal fusion depression assessment model based on attention mechanisms is proposed to predict the severity of depression from visual, acoustic and text modalities. By training and testing on an improved dataset, the proposed multi-modal feature layer fusion model based on attention mechanisms (MFF-Att) is validated to be superior to unimodal prediction models and achieved good results in depression assessment. The root mean square error (RMSE) and mean absolute error (MAE) of the proposed model on the development set are 4.03 and 3.05, respectively, which are better than the baseline and state-of-the-art results.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/CISP-BMEI56279.2022.9979894
+SP  - 1
+EP  - 6
+AN  - rayyan-496951484
+Y2  - 0011/01/01/
+KW  - Depression
+KW  - Acoustics
+KW  - Signal processing
+KW  - Training
+KW  - Transformers
+KW  - Visualization
+KW  - Predictive models
+KW  - Depression Assessment
+KW  - Multi-modal Fusion
+KW  - Psychiatric Disorder
+ER  - 
+
+TY  - JOUR
+TI  - Modeling Multimodal Depression Diagnosis From the Perspective of Local Depressive Representation
+AU  - J. Liang
+AU  - P. Cao
+AU  - C. Wang
+AU  - J. Yang
+AU  - F. Wang
+AU  - O. R. Zaiane
+T2  - IEEE Transactions on Affective Computing
+AB  - Depression recognition is critical for early detection and treatment. Existing works focus on modeling coarse-grained multimodal representation to estimate the depression level. However, these approaches often overlook the inherent locality of depressive representation, resulting in weak and sparse depressive frames being overlooked. In addition, they neglect the inter-modal correlations and intra-modal patterns of mood change, limiting the learning of multimodal complementary information. Therefore, we present a Locality-Aware Multimodal Depression (LAMD) recognition model. Specifically, LAMD contains three innovations: 1) Considering the sparsity of depressive features, we propose an Adaptive Temporal Attention (ATA) module to adaptively highlight keyframes with depressive features and suppress irrelevant frames. Additionally, we introduce Segment Information Sharing (SIS) strategy to overcome the limitation of inter-segment independence, enabling global awareness of depressive features within the whole segment. 2) We revisit the audio-video multimodal interaction from the perspectives of inter-modal correlation and intra-modal smoothness, introducing frame-level multimodal attention consistency constraints and smooth constraints. Furthermore, we propose a local cross-attention to enhance the inter-modal interactions in adjacent time. 3) Extensive experiments on several datasets demonstrate that LAMD achieves superior performance, with up to 7.21 RMSE and 76.77% F1-score on the AVEC2014 and NJAD dataset, outperforming the prior art by a notable 0.22% and 1.88% margin, respectively. Moreover, visual analysis reveals that LAMD can adaptively perceive depressive keyframes and focus on fine-grained facial regions known for capturing subtle depressive expressions.
+DA  - 2026///
+PY  - 2026
+DO  - 10.1109/TAFFC.2025.3625612
+VL  - 17
+IS  - 1
+SP  - 497
+EP  - 510
+J2  - IEEE Transactions on Affective Computing
+SN  - 1949-3045
+AN  - rayyan-496951512
+Y2  - 0001/01/01/
+KW  - Depression
+KW  - Feature extraction
+KW  - Correlation
+KW  - Representation learning
+KW  - Adaptation models
+KW  - Visualization
+KW  - Videos
+KW  - Semantics
+KW  - Multimodal depression recognition
+KW  - Convolutional neural networks
+KW  - Accuracy
+KW  - adaptive temporal attention
+KW  - inter-modal correlation
+KW  - intra-modal smoothness
+KW  - locality of depressive representation
+ER  - 
+
+TY  - CONF
+TI  - Multimodal Interpretable Depression Analysis Using Visual, Physiological, Audio and Textual Data
+AU  - P. Kumar
+AU  - S. Misra
+AU  - Z. Shao
+AU  - B. Zhu
+AU  - B. Raman
+AU  - X. Li
+T2  - 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+AB  - Motivated by depression's significant impact on global health, this work proposes MultiDepNet, a novel multi-modal interpretable depression detection system integrating visual, physiological, audio, and textual data. Through ded-icated feature extraction methods (MTCNN for video, TS-CAN for physiological, ResNet-18 for audio, and RoBERTa for text modalities) and a strategic fusion of modality-specific networks including CNN-RNN, Transformer, MLP, and ResNet-18, it achieves significant advancements in depression detection. Its performance, evaluated across four benchmark datasets (AVEC 2013, AVEC 2014, DAIC, and E-DAIC), demonstrates average MAE of 5.64, RMSE of 7.15, accuracy of 74.19%, precision of 0.7373, re-call of 0.7378, and F1 of 0.7376. It also implements a Multiviz-based interpretability mechanism that computes each modality's contribution to the model's performance. The results reveal the visual modality to be the most signifi-cant, contributing 37.88% towards depression detection.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/WACV61041.2025.00518
+SP  - 5305
+EP  - 5315
+SN  - 2642-9381
+AN  - rayyan-496951548
+Y2  - 0002/01/01/
+KW  - Computer vision
+KW  - Depression
+KW  - mental health
+KW  - affective computing
+KW  - Feature extraction
+KW  - Transformers
+KW  - Visualization
+KW  - Computational modeling
+KW  - Physiology
+KW  - multimodal fusion
+KW  - Accuracy
+KW  - Benchmark testing
+KW  - interpretable ai
+KW  - social signal analysis
+ER  - 
+
+TY  - CONF
+TI  - DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection
+AU  - J. Ye
+AU  - J. Zhang
+AU  - H. Shan
+T2  - ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+AB  - Depression is a common mental disorder that affects millions of people worldwide. Although promising, current multimodal methods hinge on aligned or aggregated multi-modal fusion, suffering two significant limitations: (i) inefficient long-range temporal modeling, and (ii) sub-optimal multimodal fusion between intermodal fusion and intramodal processing. In this paper, we propose an audio-visual progressive fusion Mamba for multimodal depression detection, termed DepMamba. DepMamba features two core designs: hierarchical contextual modeling and progressive multimodal fusion. On the one hand, hierarchical modeling introduces convolution neural networks and Mamba to extract the local-to-global features within long-range sequences. On the other hand, the progressive fusion first presents a multimodal collaborative State Space Model (SSM) extracting intermodal and intramodal information for each modality, and then utilizes a multimodal enhanced SSM for modality cohesion. Extensive experimental results on two large-scale depression datasets demonstrate the superior performance of our DepMamba over existing state-of-the-art methods. Code is available at https://github.com/Jiaxin-Ye/DepMamba.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/ICASSP49660.2025.10889975
+SP  - 1
+EP  - 5
+SN  - 2379-190X
+AN  - rayyan-496951573
+Y2  - 0004/01/01/
+KW  - Mental disorders
+KW  - Depression
+KW  - Feature extraction
+KW  - Transformers
+KW  - Speech processing
+KW  - Depression Detection
+KW  - Data mining
+KW  - Neural networks
+KW  - Convolution
+KW  - Hands
+KW  - Multimodal Fusion
+KW  - Fasteners
+KW  - Long-range Temporal Modeling
+KW  - Mamba
+ER  - 
+
+TY  - CONF
+TI  - A Novel Audio-Visual Information Fusion System for Mental Disorders Detection
+AU  - Y. Li
+AU  - S. Li
+AU  - S. M. Naqvi
+T2  - 2024 27th International Conference on Information Fusion (FUSION)
+AB  - Mental disorders are among the foremost contributors to the global healthcare challenge. Research indicates that timely diagnosis and intervention are vital in treating various mental disorders. However, the early somatization symptoms of certain mental disorders may not be immediately evident, often resulting in their oversight and misdiagnosis. Additionally, the traditional diagnosis methods incur high time and cost. Deep learning methods based on fMRI and EEG have improved the efficiency of the mental disorder detection process. However, the cost of the equipment and trained staff are generally huge. Moreover, most systems are only trained for a specific mental disorder and are not general-purpose. Recently, physiological studies have shown that there are some speech and facial-related symptoms in a few mental disorders (e.g., depression and ADHD). In this paper, we focus on the emotional expression features of mental disorders and introduce a multimodal mental disorder diagnosis system based on audio-visual information input. Our proposed system is based on spatial-temporal attention networks and innovative uses a less computationally intensive pre-train audio recognition network to fine-tune the video recognition module for better results. We also apply the unified system for multiple mental disorders (ADHD and depression) for the first time. The proposed system achieves over 80% accuracy on the real multimodal ADHD dataset and achieves state-of-the-art results on the depression dataset AVEC 2014.
+DA  - 2024///
+PY  - 2024
+DO  - 10.23919/FUSION59988.2024.10706499
+SP  - 1
+EP  - 7
+AN  - rayyan-496951578
+Y2  - 0007/01/01/
+KW  - Deep learning
+KW  - Mental disorders
+KW  - depression
+KW  - Depression
+KW  - machine learning
+KW  - Feature extraction
+KW  - Functional magnetic resonance imaging
+KW  - Data models
+KW  - mental disorder
+KW  - multimodal
+KW  - ADHD
+KW  - Physiology
+KW  - Electroencephalography
+KW  - Medical services
+KW  - Costs
+ER  - 
+
+TY  - JOUR
+TI  - Integrating Deep and Shallow Models for Multi-Modal Depression Analysis—Hybrid Architectures
+AU  - L. Yang
+AU  - D. Jiang
+AU  - H. Sahli
+T2  - IEEE Transactions on Affective Computing
+AB  - At present, although great progress has been made in automatic depression assessment, most of the recent works only concern the audio and video paralinguistic information, rather than the linguistic information from the spoken content. In this work, we argue that beside developing good audio and video features, to build reliable depression detection systems, text-based content features are also of importance to analyse depression-related textual indicators. Furthermore, to improve the performance of automatic depression assessment systems, powerful models, capable of modelling the characteristics of depression embedded in the audio, visual and text descriptors, are also required. This paper proposes new text and video features and hybridizes deep and shallow models for depression estimation and classification from audio, video and text descriptors. The proposed hybrid framework consists of three main parts: 1) A Deep Convolutional Neural Network (DCNN) and Deep Neural Network (DNN) based audio-visual multi-modal depression recognition model for estimating the Patient Health Questionnaire depression scale (PHQ-8); 2) A Paragraph Vector (PV) and Support Vector Machine (SVM) based model for inferring the physical and mental conditions of the individual from the transcripts of the interview; 3) A Random Forest (RF) model for depression classification from the estimated PHQ-8 score and the inferred conditions of the individual. In the PV-SVM model, PV embedding is used to obtain fixed-length feature vectors from transcripts of the answers to the questions associated with psychoanalytic aspects of depression, which are subsequently fed into the SVM classifiers for detecting the presence/absence of the considered psychoanalytic symptoms. To our best knowledge, this approach is the first attempt to apply PV for depression analysis. Besides, we propose a new visual descriptor - Histogram of Displacement Range (HDR) to characterize the displacement and velocity of the facial landmarks in the video segment. Experiments have been carried out on the Audio Visual Emotion Challenge (AVEC2016) depression dataset, they demonstrate that: 1) The proposed hybrid framework effectively improves the accuracies of both depression estimation and depression classification, with an average F1 measure up to 0.746, which is higher than the best result (0.724) of the depression sub-challenge of AVEC2016. 2) HDR obtains better depression recognition performance than Bag-of-Words (BoW) and Motion History Histogram (MHH) features.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/TAFFC.2018.2870398
+VL  - 12
+IS  - 1
+SP  - 239
+EP  - 253
+J2  - IEEE Transactions on Affective Computing
+SN  - 1949-3045
+AN  - rayyan-496951582
+Y2  - 0001/01/01/
+KW  - Feature extraction
+KW  - Estimation
+KW  - Visualization
+KW  - Analytical models
+KW  - Support vector machines
+KW  - Depression estimation
+KW  - Histograms
+KW  - random forest
+KW  - Neural networks
+KW  - deep convolutional neural network-deep neural network (DCNN-DNN)
+KW  - depression classification
+KW  - histogram of displacement range (HDR)
+KW  - paragraph vector-support vector machine (PV-SVM)
+ER  - 
+
+TY  - JOUR
+TI  - STCM-Mamba: Multimodal Spatio-Temporal Cross-Modal Mamba for Depression Detection
+AU  - B. Zhou
+AU  - M. -A. Fiedler
+AU  - A. Al-Hamadi
+T2  - IEEE Access
+AB  - Depression is a prevalent mental disorder with severe physiological symptoms and high diagnosis costs, however, the development of efficient and accurate depression detection systems remains challenging. While deep learning methods leveraging multimodal data have shown promise, existing approaches suffer from two critical limitations. One is the lack of effective spatiotemporal feature integration, and the other is the inability to balance effective long-sequence modeling and computational complexity. To address these challenges, we propose STCM-Mamba, a novel Spatio-Temporal Cross-Modal Mamba (STCM-Mamba) framework for efficient and accurate depression detection. The STCM-Mamba comprises three modules: a Spatio-Temporal Mamba Module (STMM), a Cross-Modal Mamba Module (CMMM), and a Depression Classification Module (DCM). The STMM consists of a Temporal Mamba Block (TMB) and a Spatial Mamba Block (SMB) for capturing spatiotemporal information for each modality, while the CMMM enhances intermodal and intramodal representation learning. Experiments on two multimodal depression datasets demonstrate that STMM and CMMM significantly contribute to performance improvements, and the STCM-Mamba outperforms state-of-the-art methods.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3627778
+VL  - 13
+SP  - 189494
+EP  - 189505
+J2  - IEEE Access
+SN  - 2169-3536
+AN  - rayyan-496951632
+L1  - https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11223210&ref=
+KW  - Deep learning
+KW  - Depression
+KW  - Depression detection
+KW  - Acoustics
+KW  - Feature extraction
+KW  - Adaptation models
+KW  - Visualization
+KW  - Computer architecture
+KW  - multimodal
+KW  - Computational modeling
+KW  - Convolutional neural networks
+KW  - Spatiotemporal phenomena
+KW  - Mamba
+KW  - spatio-temporal modeling
+ER  - 
+
+TY  - JOUR
+TI  - Semi-Structural Interview-Based Chinese Multimodal Depression Corpus Towards Automatic Preliminary Screening of Depressive Disorders
+AU  - B. Zou
+AU  - J. Han
+AU  - Y. Wang
+AU  - R. Liu
+AU  - S. Zhao
+AU  - L. Feng
+AU  - X. Lyu
+AU  - H. Ma
+T2  - IEEE Transactions on Affective Computing
+AB  - Depression is a common psychiatric disorder worldwide. However, in China, a considerable number of patients with depression are not diagnosed, and most of them are not aware of their depression. Despite increasing efforts, the goal of automatic depression screening from behavioral indicators has not been achieved. A major limitation is the lack of available multimodal depression corpus in Chinese since linguistic knowledge is crucial in clinical practice. Therefore, we first carried out a comprehensive survey with psychiatrists from a renowned psychiatric hospital to identify key interview topics which are highly related to the diagnosis of depression. Then, a semi-structural interview study was conducted over a year with subjects who have undergone clinical diagnosis and professional assessment. After that, Visual, acoustic, and textual features were extracted and analyzed between the two groups, statistically significant differences were observed in all three modalities. Benchmark evaluations of both single modal and multimodal fusion methods of depression assessment were also performed. A multimodal transformer-based fusion approach achieved the best performance. Finally, the proposed Chinese Multimodal Depression Corpus (CMDC) was made publicly available after de-identification and annotation. Hopefully, the release of this corpus would promote the research progress and practical applications of automatic depression screening.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/TAFFC.2022.3181210
+VL  - 14
+IS  - 4
+SP  - 2823
+EP  - 2838
+J2  - IEEE Transactions on Affective Computing
+SN  - 1949-3045
+AN  - rayyan-496951636
+Y2  - 0010/01/01/
+KW  - Interviews
+KW  - Depression
+KW  - Affective computing
+KW  - Acoustics
+KW  - Feature extraction
+KW  - depressive disorder
+KW  - Visualization
+KW  - Behavioral sciences
+KW  - Hospitals
+KW  - multimodal corpus
+KW  - semi-structural interview
+ER  - 
+
+TY  - JOUR
+TI  - Image Encoding and Fusion of Multi-Modal Data Enhance Depression Diagnosis in Parkinson's Disease Patients
+AU  - J. Li
+AU  - Y. Zhao
+AU  - H. Zhang
+AU  - W. J. Li
+AU  - C. Fu
+AU  - C. Lian
+AU  - P. Shan
+T2  - IEEE Transactions on Affective Computing
+AB  - The diagnosis of depression in individuals with Parkinson's Disease (PD) through the utilization of multimodal fusion techniques represents a significant domain. The primary challenge involves the creation of a robust fusion framework to address the heterogeneity among different modalities effectively. However, previous studies primarily focused on interactions between heterogeneous data, neglecting the structural similarities among isomorphic data, resulting in a substantial loss of feature information when merging heterogeneous data. In this study, we introduced a multi-modal data image encoding and fusion approach for diagnosing depression in PD patients. Additionally, we proposed a multi-modal dataset encompassing motion, facial expression, and audio data. First, we designed an RGB and sparse coding method to encode the multi-modal data, achieving the isomorphic transformation of multi-modal information and extracting feature information from lower-dimensional spaces. Furthermore, we introduced a Spatial-Temporal Network (STN) to fuse the three types of encoded images. We incorporated the Relation Global Attention (RGA) to enhance feature extraction and leverage all encoded image location feature nodes for balanced decision attention. Finally, recognizing the limitations of traditional machine learning algorithms in handling multi-tasks in medical diagnosis, we established a multi-task weighted loss function to achieve depression identification and severity prediction through Multi-Task learning (MTL).
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/TAFFC.2024.3418415
+VL  - 16
+IS  - 1
+SP  - 145
+EP  - 160
+J2  - IEEE Transactions on Affective Computing
+SN  - 1949-3045
+AN  - rayyan-496951642
+Y2  - 0001/01/01/
+KW  - Depression
+KW  - Depression recognition
+KW  - Affective computing
+KW  - Feature extraction
+KW  - Task analysis
+KW  - Encoding
+KW  - Data mining
+KW  - multi-task learning
+KW  - Image coding
+KW  - image encoding
+KW  - spatial-temporal network
+ER  - 
+
+TY  - JOUR
+TI  - End-to-end multimodal clinical depression recognition using deep neural networks: A comparative analysis
+AU  - Muzammel, M.
+AU  - Salam, H.
+AU  - Othmani, A.
+T2  - Computer Methods and Programs in Biomedicine
+AB  - Background and Objective: Major Depressive Disorder is a highly prevalent and disabling mental health condition. Numerous studies explored multimodal fusion systems combining visual, audio, and textual features via deep learning architectures for clinical depression recognition. Yet, no comparative analysis for multimodal depression analysis has been proposed in the literature. Methods: In this paper, an up-to-date literature overview of multimodal depression recognition is presented and an extensive comparative analysis of different deep learning architectures for depression recognition is performed. First, audio features based Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) are studied. Then, early-level and model-level fusion of deep audio features with visual and textual features through LSTM and CNN architectures are investigated. Results: The performance of the proposed architectures using an hold-out strategy on the DAIC-WOZ dataset (80% training, 10% validation, 10% test split) for binary and severity levels of depression recognition is tested. Using this strategy, a set of experiments have been performed and they have demonstrated: (1) LSTM-based audio features perform slightly better than CNN ones with an accuracy of 66.25% versus 65.60% for binary depression classes. (2) the model level fusion of deep audio and visual features using LSTM network performed the best with an accuracy of 77.16%, a precision of 53% for the depressed class, and a precision of 83% for the non-depressed class. The given network obtained a normalized Root Mean Square Error (RMSE) of 0.15 for depression severity level prediction. Using a Leave-One-Subject-Out strategy, this network achieved an accuracy of 95.38% for binary depression detection, and a normalized RMSE of 0.1476 for depression severity level prediction. Our best-performing architecture outperforms all state-of-the-art approaches on DAIC-WOZ dataset. Conclusions: The obtained results show that the proposed LSTM-based surpass the proposed CNN-based architectures allowing to learn temporal dynamics representations of multimodal features. Furthermore, model-level fusion of audio and visual features using an LSTM network leads to the best performance. Our best-performing architecture successfully detects depression using a speech segment of less than 8 seconds, and an average prediction computation time of less than 6ms; making it suitable for real-world clinical applications. © 2021 Elsevier B.V.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/j.cmpb.2021.106433
+VL  - 211
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85116079993&doi=10.1016%2Fj.cmpb.2021.106433&partnerID=40&md5=b907239fa9a093d9b568f5aad00189f2
+DB  - Scopus
+KW  - acoustic analysis
+KW  - Article
+KW  - Audio features
+KW  - audio recording
+KW  - Audio systems
+KW  - automation
+KW  - Beck Depression Inventory
+KW  - Bioinformatics
+KW  - Biomedical informatics
+KW  - Biomedical information processing
+KW  - Comparative analyzes
+KW  - comparative study
+KW  - Convolutional neural network
+KW  - convolutional neural network
+KW  - Convolutional neural networks
+KW  - Deep learning
+KW  - deep learning
+KW  - deep neural network
+KW  - Deep neural networks
+KW  - depaudionet network
+KW  - Depression
+KW  - depression
+KW  - depression assessment
+KW  - Depressive Disorder, Major
+KW  - diagnostic accuracy
+KW  - discrete Fourier transform
+KW  - disease severity
+KW  - emoaudionet network
+KW  - face muscle
+KW  - Features fusion
+KW  - Features fusions
+KW  - Forecasting
+KW  - Hamilton Depression Rating Scale
+KW  - Hospital Anxiety and Depression Scale
+KW  - human
+KW  - Humans
+KW  - leave one subject out
+KW  - long short term memory network
+KW  - Long short-term memory
+KW  - machine learning
+KW  - major depression
+KW  - Mean square error
+KW  - Medical informatics
+KW  - mel frequency cepstral coefficient
+KW  - Modal analysis
+KW  - Multi-modal
+KW  - Multimodal depression recognition
+KW  - Network architecture
+KW  - Neural Networks, Computer
+KW  - patient health questionnaire
+KW  - prediction
+KW  - prosody
+KW  - quick inventory of depression symptomatology
+KW  - recurrent neural network
+KW  - self report
+KW  - Statistical tests
+KW  - validation study
+KW  - Visual feature
+KW  - white noise
+KW  - word2vec network
+ER  - 
+
+TY  - CONF
+TI  - Diagnosis of depression by behavioural signals: A multimodal approach
+AU  - Cummins, N.
+AU  - Joshi, J.
+AU  - Dhall, A.
+AU  - Sethu, V.
+AU  - Goecke, R.
+AU  - Epps, J.
+T2  - AVEC 2013 - Proceedings of the 3rd ACM International Workshop on Audio/Visual Emotion Challenge
+AB  - Quantifying behavioural changes in depression using affective computing techniques is the first step in developing an objective diagnostic aid, with clinical utility, for clinical depression. As part of the AVEC 2013 Challenge, we present a multimodal approach for the Depression Sub-Challenge using a GMM-UBM system with three different kernels for the audio subsystem and Space Time Interest Points in a Bag-of-Words approach for the vision subsystem. These are then fused at the feature level to form the combined AV system. Key results include the strong performance of acoustic audio features and the bag-of-words visual features in predicting an individual's level of depression using regression. Interestingly, in the context of the small amount of literature on the subject, is that our feature level multimodal fusion technique is able to outperform both the audio and visual challenge baselines. © Copyright © 2013 ACM.
+DA  - 2013///
+PY  - 2013
+DO  - 10.1145/2512530.2512535
+SP  - 11
+EP  - 20
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84887498641&doi=10.1145%2F2512530.2512535&partnerID=40&md5=4be87cfdbd403dcafbdf243a9aac7c63
+DB  - Scopus
+KW  - Acoustic speech
+KW  - Acoustic speech features
+KW  - Bag of words
+KW  - Bag-of-words
+KW  - Behavioural signals
+KW  - Depression
+KW  - Histogram of gradients
+KW  - Multi-modal
+KW  - Multi-modal fusion
+KW  - Multimodal fusion
+KW  - Multimodal technologies
+KW  - Pyramid of histogram of gradients
+KW  - Space-time interest points
+KW  - Support vector regression
+KW  - Support vector regression (SVR)
+ER  - 
+
+TY  - CONF
+TI  - Depression assessment by fusing high and low level features from audio, video, and text
+AU  - Pampouchidou, A.
+AU  - Simantiraki, O.
+AU  - Fazlollahi, A.
+AU  - Pediaditis, M.
+AU  - Manousos, D.
+AU  - Roniotis, A.
+AU  - Giannakakis, G.
+AU  - Meriaudeau, F.
+AU  - Simos, P.
+AU  - Marias, K.
+AU  - Yang, F.
+AU  - Tsiknakis, M.
+T2  - AVEC 2016 - Proceedings of the 6th International Workshop on Audio/Visual Emotion Challenge, co-located with ACM Multimedia 2016
+DA  - 2016///
+PY  - 2016
+DO  - 10.1145/2988257.2988266
+SP  - 27
+EP  - 34
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84995610978&doi=10.1145%2F2988257.2988266&partnerID=40&md5=53eaa98d73469a79cbaaef9c4fc869b5
+AN  - rayyan-505478865
+KW  - Affective computing
+KW  - Image processing
+KW  - Affective Computing
+KW  - Speech processing
+KW  - Semantics
+KW  - Pattern recognition
+KW  - Multi-modal fusion
+KW  - Speech recognition
+KW  - AVEC 2016
+KW  - Classification accuracy
+KW  - Classification algorithm
+KW  - Classification results
+KW  - Depression assessment multimodal fusion
+KW  - Dynamic characteristics
+KW  - Statistical descriptors
+ER  - 
+
+TY  - JOUR
+TI  - Multi-level spatiotemporal graph attention fusion for multimodal depression detection
+AU  - Yang, Y.
+AU  - Zheng, W.
+T2  - Biomedical Signal Processing and Control
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.bspc.2025.108123
+VL  - 110
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105007946734&doi=10.1016%2Fj.bspc.2025.108123&partnerID=40&md5=ef41442a814951fafc7967f21a5a47be
+AN  - rayyan-505478879
+KW  - deep learning
+KW  - depression
+KW  - feature extraction
+KW  - facial expression
+KW  - Multi-modal fusion
+KW  - Multi-modal
+KW  - multimodal imaging
+KW  - graph neural network
+KW  - Attention mechanisms
+KW  - Multimodal depression detection
+KW  - crossmodal attention
+KW  - Article
+KW  - controlled study
+KW  - Patient Health Questionnaire 8
+KW  - analytical error
+KW  - attention network
+KW  - autoencoder
+KW  - Bidirectional fusion graph
+KW  - binary classification
+KW  - facies
+KW  - Graph attention mechanism
+KW  - Graph structures
+KW  - Information fusion
+KW  - intermethod comparison
+KW  - long short term memory network
+KW  - multi level spatiotemporal graph attention fusion
+KW  - Multi-feature temporal fusion
+KW  - Multifeatures
+KW  - multilevel analysis
+KW  - Multilevels
+KW  - psychiatric diagnosis
+KW  - Spatio-temporal graphs
+KW  - spatiotemporal analysis
+KW  - statistical model
+KW  - Undirected graphs
+KW  - Vector spaces
+KW  - waveform
+ER  - 
+
+TY  - JOUR
+TI  - Harnessing multimodal emotion features in depression detection across gender: Integrating large language model, acoustic fusion and facial expression recognition
+AU  - Jin, Y.
+AU  - Chen, X.
+AU  - Liu, J.
+AU  - Chen, Z.
+AU  - Zhou, J.
+AU  - Li, Y.
+AU  - Bu, Y.
+AU  - Wang, Y.
+T2  - Journal of Affective Disorders
+DA  - 2026///
+PY  - 2026
+DO  - 10.1016/j.jad.2026.121207
+VL  - 400
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105028111231&doi=10.1016%2Fj.jad.2026.121207&partnerID=40&md5=1653770f4769a3731c2ef6588a78db56
+AN  - rayyan-505478883
+KW  - deep learning
+KW  - depression
+KW  - Depression
+KW  - Humans
+KW  - Depression detection
+KW  - diagnosis
+KW  - natural language processing
+KW  - cognition
+KW  - facial expression
+KW  - Emotion recognition
+KW  - psychology
+KW  - Adult
+KW  - Emotions
+KW  - Facial Expression
+KW  - Female
+KW  - Male
+KW  - Middle Aged
+KW  - Young Adult
+KW  - facial expression recognition
+KW  - Language
+KW  - emotion
+KW  - convolutional neural network
+KW  - Facial Recognition
+KW  - support vector machine
+KW  - random forest
+KW  - Sex Factors
+KW  - Large Language Models
+KW  - Multimodality
+KW  - human
+KW  - semantics
+KW  - fear
+KW  - large language model
+KW  - sadness
+KW  - language
+KW  - facial recognition
+KW  - Article
+KW  - controlled study
+KW  - female
+KW  - major clinical study
+KW  - male
+KW  - adult
+KW  - Patient Health Questionnaire 8
+KW  - statistical model
+KW  - acoustic analysis
+KW  - anger
+KW  - cross validation
+KW  - depression assessment
+KW  - diagnostic accuracy
+KW  - diagnostic test accuracy study
+KW  - disease severity
+KW  - Gender differences
+KW  - internalization (behavior)
+KW  - Markov chain Monte Carlo method
+KW  - mean absolute error
+KW  - mean squared error
+KW  - middle aged
+KW  - odds ratio
+KW  - rank sum test
+KW  - root mean squared error
+KW  - semi structured interview
+KW  - sex difference
+KW  - sex factor
+KW  - video interview
+KW  - young adult
+ER  - 
+
+TY  - CONF
+TI  - AudiFace: Multimodal Deep Learning for Depression Screening
+AU  - Flores, R.
+AU  - Tlachac, M.L.
+AU  - Toto, E.
+AU  - Rundensteiner, E.
+T2  - Proceedings of Machine Learning Research
+DA  - 2022///
+PY  - 2022
+VL  - 182
+SP  - 609
+EP  - 630
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164540455&partnerID=40&md5=f8c754f77e1c90ffb51fd492f4b48372
+AN  - rayyan-505478909
+KW  - Mental health
+KW  - Machine-learning
+KW  - Long short-term memory
+KW  - Multi-modal
+KW  - Learning systems
+KW  - Facial feature
+KW  - Clinical interview
+KW  - Health disorders
+KW  - Learning models
+KW  - Health professionals
+KW  - Professional aspects
+KW  - Social and economic impacts
+KW  - Virtual agent
+ER  - 
+
+TY  - CONF
+TI  - Towards Remote Differential Diagnosis of Mental and Neurological Disorders using Automatically Extracted Speech and Facial Features
+AU  - Richter, V.
+AU  - Neumann, M.
+AU  - Ramanarayanan, V.
+T2  - CEUR Workshop Proceedings
+DA  - 2024///
+PY  - 2024
+VL  - 3649
+SP  - 57
+EP  - 63
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188508433&partnerID=40&md5=5d4a7f85fcc8b6b862d83b17acfbc9d7
+AN  - rayyan-505478939
+KW  - Biomarkers
+KW  - Mental disorders
+KW  - depression
+KW  - Depression
+KW  - speech
+KW  - Biomedical signal processing
+KW  - Schizophrenia
+KW  - multimodal
+KW  - schizophrenia
+KW  - digital biomarkers
+KW  - mental disorders
+KW  - Neurology
+KW  - amyotrophic lateral sclerosis
+KW  - Multi-modal
+KW  - Digital biomarker
+KW  - Multi-class
+KW  - Amyotrophic lateral sclerosis
+KW  - Neurodegenerative diseases
+KW  - Differential diagnosis
+KW  - facial
+KW  - neurological disorders
+KW  - Classification (of information)
+KW  - Speech communication
+KW  - Audio signal processing
+KW  - Computer aided diagnosis
+KW  - dialog system
+KW  - Dialogue systems
+KW  - differential diagnosis
+KW  - Facial
+KW  - multi-class
+KW  - Neurological disorders
+ER  - 
+
+TY  - JOUR
+TI  - Disease and personality information enhanced depression detection based on the TransGCL framework
+AU  - Zhao, Y.
+AU  - Zhang, H.
+AU  - Sun, T.
+AU  - Zhou, Z.
+AU  - Li, J.
+AU  - Lian, C.
+AU  - Tian, K.
+AU  - Wang, Y.
+AU  - Fu, C.
+T2  - Neurocomputing
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.neucom.2025.131160
+VL  - 654
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105013523137&doi=10.1016%2Fj.neucom.2025.131160&partnerID=40&md5=3e6e68c8f01ab6cd6b697861c2798510
+AN  - rayyan-505478989
+KW  - depression
+KW  - Depression recognition
+KW  - Personality
+KW  - Medical research
+KW  - Affective computing
+KW  - Diseases
+KW  - Affective Computing
+KW  - emotion
+KW  - Multi-modal fusion
+KW  - Multi-modal
+KW  - human
+KW  - gait
+KW  - public health
+KW  - Personality traits
+KW  - emotional stress
+KW  - personality
+KW  - Behavioral research
+KW  - Article
+KW  - Psychological stress
+KW  - mean absolute error
+KW  - videorecording
+KW  - human experiment
+KW  - mental stress
+KW  - Disease
+KW  - diseases
+KW  - Linear regression
+KW  - multiple linear regression analysis
+KW  - Psychological disorders
+KW  - Stresses response
+ER  - 
+
+TY  - JOUR
+TI  - A Multimodal Artificial Intelligence Model for Depression Severity Detection Based on Audio and Video Signals
+AU  - Zhang, L.
+AU  - Zhang, S.
+AU  - Zhang, X.
+AU  - Zhao, Y.
+T2  - Electronics (Switzerland)
+DA  - 2025///
+PY  - 2025
+DO  - 10.3390/electronics14071464
+VL  - 14
+IS  - 7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105002384563&doi=10.3390%2Felectronics14071464&partnerID=40&md5=56a9478673de25d143977d453dc96e08
+AN  - rayyan-505478990
+KW  - deep learning
+KW  - facial expression recognition
+KW  - depression detection
+KW  - real-time monitoring
+KW  - long short-term memory network
+KW  - lightweight
+ER  - 
+
+TY  - CONF
+TI  - A multimodal Framework for exploring behavioural cues for automatic Stress Detection
+AU  - Valerio, R.
+AU  - Mahmoud, M.
+T2  - ICMI 2025 - Proceedings of the 27th International Conference on Multimodal Interaction
+DA  - 2025///
+PY  - 2025
+DO  - 10.1145/3716553.3750797
+SP  - 535
+EP  - 539
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105022257387&doi=10.1145%2F3716553.3750797&partnerID=40&md5=c389419322e56be46ca17c54700204d3
+AN  - rayyan-505479029
+KW  - Mental health
+KW  - Face recognition
+KW  - Facial Expressions
+KW  - Diagnosis
+KW  - Cognitive performance
+KW  - Psychophysiology
+KW  - Stress detection
+KW  - Interactive computer systems
+KW  - Unimodal
+KW  - Behavioral cues
+KW  - Physiological models
+KW  - Stresses
+KW  - Well being
+KW  - Multimodal frameworks
+KW  - Body gesture
+KW  - Feature Selection
+KW  - Occupational risks
+KW  - Performance-monitoring
+ER  - 
+
+TY  - CONF
+TI  - Multimodal Approach for Assessing Neuromotor Coordination in Schizophrenia Using Convolutional Neural Networks
+AU  - Siriwardena, Y.M.
+AU  - Espy-Wilson, C.
+AU  - Kitchen, C.
+AU  - Kelly, D.L.
+T2  - ICMI 2021 - Proceedings of the 2021 International Conference on Multimodal Interaction
+DA  - 2021///
+PY  - 2021
+DO  - 10.1145/3462244.3479967
+SP  - 768
+EP  - 772
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85118972146&doi=10.1145%2F3462244.3479967&partnerID=40&md5=ea755736f6ef255d496be482abf8de00
+AN  - rayyan-505479039
+KW  - Speech
+KW  - Diseases
+KW  - Schizophrenia
+KW  - Convolutional neural network
+KW  - Convolutional neural networks
+KW  - Convolution
+KW  - Action Unit
+KW  - Multimodal system
+KW  - Facial action
+KW  - Articulatory coordination
+KW  - Coordination patterns
+KW  - Coordination reactions
+KW  - Correlation methods
+KW  - Facial action unit
+KW  - FAUs
+KW  - Tract variables
+KW  - Vocal tract variable
+KW  - Vocal tract Variables
+KW  - Vocal-tracts
+ER  - 
+
+TY  - JOUR
+TI  - Towards stable cross-domain depression recognition under missing modalities
+AU  - Chen, J.
+AU  - Tan, M.
+AU  - Lu, H.
+AU  - Xu, Q.
+AU  - Wang, Z.
+AU  - Zeng, R.
+AU  - Hu, X.
+T2  - Pattern Recognition
+DA  - 2026///
+PY  - 2026
+DO  - 10.1016/j.patcog.2026.113367
+VL  - 177
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105031652219&doi=10.1016%2Fj.patcog.2026.113367&partnerID=40&md5=17856f32c9d57e4103671fd75169741f
+AN  - rayyan-505479076
+KW  - Depression recognition
+KW  - Affective computing
+KW  - Affective Computing
+KW  - Multi-modal
+KW  - Public health
+KW  - Interactive computer systems
+KW  - Language model
+KW  - Real-world
+KW  - Audio videos
+KW  - Health risks
+KW  - Arts computing
+KW  - Cross-domain
+KW  - Missing modality
+KW  - Multimodal large language model
+KW  - Public health risks
+KW  - Public risks
+ER  - 
+
+TY  - CONF
+TI  - Disentangled-Multimodal Privileged Knowledge Distillation for Depression Recognition with Incomplete Multimodal Data
+AU  - Pan, Y.
+AU  - Jiang, J.
+AU  - Jiang, K.
+AU  - Liu, X.
+T2  - MM 2024 - Proceedings of the 32nd ACM International Conference on Multimedia
+DA  - 2024///
+PY  - 2024
+DO  - 10.1145/3664647.3681227
+SP  - 5712
+EP  - 5721
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85209817167&doi=10.1145%2F3664647.3681227&partnerID=40&md5=60ceb4caaf715323abc39610cb07b371
+AN  - rayyan-505479145
+KW  - Depression recognition
+KW  - affective computing
+KW  - Affective Computing
+KW  - multimodal
+KW  - Multi-modal
+KW  - Facial images
+KW  - depression recognition
+KW  - Performance
+KW  - Audio signal
+KW  - Audio recordings
+KW  - High quality data
+KW  - Knowledge distillation
+KW  - knowledge distillation
+KW  - Modal method
+KW  - Single-modal
+ER  - 
+
+TY  - JOUR
+TI  - A multimodal fusion model with multi-level attention mechanism for depression detection
+AU  - Fang, M.
+AU  - Peng, S.
+AU  - Liang, Y.
+AU  - Hung, C.-C.
+AU  - Liu, S.
+T2  - Biomedical Signal Processing and Control
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.bspc.2022.104561
+VL  - 82
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85145258750&doi=10.1016%2Fj.bspc.2022.104561&partnerID=40&md5=76d82b4b60ea545b9be77ac67ef6c4ad
+AN  - rayyan-505479181
+KW  - deep learning
+KW  - depression
+KW  - Depression detection
+KW  - mental health
+KW  - Diseases
+KW  - facial expression
+KW  - Feature extraction
+KW  - Mental health
+KW  - Multimodal
+KW  - convolutional neural network
+KW  - Long short-term memory
+KW  - Multi-modal fusion
+KW  - data processing
+KW  - Attention mechanism
+KW  - Multi-modal
+KW  - human
+KW  - Attention mechanisms
+KW  - attention
+KW  - Article
+KW  - multilevel analysis
+KW  - Multilevels
+KW  - depression assessment
+KW  - root mean squared error
+KW  - Mean square error
+KW  - visual information
+KW  - Fusion model
+KW  - clinical feature
+KW  - Mental illness
+KW  - audiovisual aid
+KW  - Learn+
+KW  - medical information
+KW  - Physical health
+ER  - 
+
+TY  - CONF
+TI  - D-vlog: Multimodal Vlog Dataset for Depression Detection
+AU  - Yoon, J.
+AU  - Kang, C.
+AU  - Kim, S.
+AU  - Han, J.
+T2  - Proceedings of the 36th AAAI Conference on Artificial Intelligence, AAAI 2022
+DA  - 2022///
+PY  - 2022
+DO  - 10.1609/aaai.v36i11.21483
+VL  - 36
+SP  - 12226
+EP  - 12234
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85147606320&doi=10.1609%2Faaai.v36i11.21483&partnerID=40&md5=1031eaa225dcba1f0e79c475688406bd
+AN  - rayyan-505479203
+KW  - Deep learning
+KW  - Feature extraction
+KW  - Multi-modal
+KW  - Visual feature
+KW  - Attention mechanisms
+KW  - Acoustic features
+KW  - Learning models
+KW  - Non-verbal behaviours
+KW  - Real-world scenario
+KW  - Detection models
+KW  - Model-based OPC
+KW  - YouTube
+ER  - 
+
